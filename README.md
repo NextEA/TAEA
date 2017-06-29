@@ -18,9 +18,6 @@ Thinking About Enterprise Application
 ## Reference
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
 
-# Tools
-* [https://github.com/SonarSource/sonar-csharp](https://github.com/SonarSource/sonar-csharp) --- Code analyzer for C# projects 
-
 
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
