@@ -1,4 +1,4 @@
-<link href="styles/madoko.css" rel="stylesheet" type="text/css">
+<link href="out/madoko.css" rel="stylesheet" type="text/css">
 
 # TAEA
 Thinking About Enterprise Application
