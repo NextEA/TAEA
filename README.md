@@ -37,6 +37,13 @@ Thinking About Enterprise Application
 * [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
 * [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
 
+# Web App
+* PWA(Progressive Web Apps)
+# Desktop App
+* WPF
+* PWA
+# Store APP
+
 # Code review guidelines
 # Testing
 ## Unit Test
