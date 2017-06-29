@@ -1,24 +1,12 @@
-<link href="out/madoko.css" rel="stylesheet" type="text/css">
-
 # TAEA
 Thinking About Enterprise Application
 
-# Design
-## Reference
-
 # API Design
-## Restful API
-## Reference
 * [https://github.com/aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
 * [http://blog.restcase.com/7-rules-for-rest-api-uri-design/](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
 * [https://docs.microsoft.com/en-us/azure/best-practices-api-design](https://docs.microsoft.com/en-us/azure/best-practices-api-design)
 * [https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 * [https://msdn.microsoft.com/en-us/library/ms998392.aspx](https://msdn.microsoft.com/en-us/library/ms998392.aspx) --- Security Checklists
-# Testing
-## Unit Test
-## Load Test
-
-# Tunning
 
 # Security
 ## Asp.Net
@@ -31,9 +19,29 @@ Thinking About Enterprise Application
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
 
 # Tools
-## Reference
 * [https://github.com/SonarSource/sonar-csharp](https://github.com/SonarSource/sonar-csharp) --- Code analyzer for C# projects 
 
+
+# [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+
+
+# [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
+* [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
+* [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
+* [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
+* [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
+* [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
+
+# Code review guidelines
+# Testing
+## Unit Test
+## Load Test
+# Tunning
 # Libs
 ## Object Pool
 ### Definition 
@@ -43,28 +51,6 @@ Thinking About Enterprise Application
 ### Implementation
 ## Reference
 * [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
-
-
-#[Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* Bussiness Driven
-* Data Driven
-## [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-
-
-# [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
-## [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
-## [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
-## [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
-## [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
-## [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
-
-# Code review guidelines
-
-
 # Cloud
 ## Multi-tenant Applications 
 * [https://msdn.microsoft.com/en-us/library/ff966499.aspx](https://msdn.microsoft.com/en-us/library/ff966499.aspx) --- Developing Multi-tenant Applications for the Cloud
