@@ -6,7 +6,8 @@
 * [https://csharpguidelines.codeplex.com/](https://csharpguidelines.codeplex.com/)
 * [https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx)
 * [http://www.cnblogs.com/jacklaw/articles/1229481.html](http://www.cnblogs.com/jacklaw/articles/1229481.html)
-
+## Tool
+* [https://github.com/SonarSource/sonar-csharp](https://github.com/SonarSource/sonar-csharp) --- Code analyzer for C# projects 
 # JavaScript code guidelines
 ## Reference
 
