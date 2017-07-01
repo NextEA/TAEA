@@ -7,6 +7,10 @@ Thinking About Enterprise Application
 * [https://docs.microsoft.com/en-us/azure/best-practices-api-design](https://docs.microsoft.com/en-us/azure/best-practices-api-design)
 * [https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 * [https://msdn.microsoft.com/en-us/library/ms998392.aspx](https://msdn.microsoft.com/en-us/library/ms998392.aspx) --- Security Checklists
+* https://segmentfault.com/a/1190000009972111 --- REST API URI 设计的七准则 
+* http://blog.restcase.com/7-rules-for-rest-api-uri-design/
+* http://blog.restcase.com/5-basic-rest-api-design-guidelines/
+* https://segmentfault.com/a/1190000009476912 --- Restful API 的设计规范
 
 # Security
 ## Asp.Net
@@ -14,6 +18,9 @@ Thinking About Enterprise Application
 * [https://msdn.microsoft.com/en-us/library/ff649100.aspx](https://msdn.microsoft.com/en-us/library/ff649100.aspx) --- Building Secure ASP.NET Applications: Authentication, Authorization, and Secure Communication
 * [https://msdn.microsoft.com/en-us/library/ee817643.aspx](https://msdn.microsoft.com/en-us/library/ee817643.aspx) --- Authentication in ASP.NET: .NET Security Guidance
 * [https://msdn.microsoft.com/en-us/library/ms998392.aspx](https://msdn.microsoft.com/en-us/library/ms998392.aspx) --- Security Checklists
+* https://segmentfault.com/a/1190000007492381 --- Web 安全指南（上） 
+* https://segmentfault.com/a/1190000007564080 --- Web 安全指南（下） 
+* https://www.zhihu.com/question/21606800/answer/22268855 --- 零基础如何学习 Web 安全？
 
 ## Reference
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
@@ -38,10 +45,14 @@ Thinking About Enterprise Application
 * [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
 
 # Web App
-* PWA(Progressive Web Apps)
+## PWA(Progressive Web Apps)
+* https://johannesdachsel.com/journal/making-my-website-work-offline/
+
 # Desktop App
 * WPF
 * PWA
+## Auto Update
+
 # Store APP
 
 # Code review guidelines
@@ -58,6 +69,35 @@ Thinking About Enterprise Application
 ### Implementation
 ## Reference
 * [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
+
+
+# [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* Bussiness Driven
+* Data Driven
+## [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+## [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+## [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+## [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+## [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+
+
+# [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
+## [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
+## [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
+## [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
+## [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
+## [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
+
+# Code review
+* http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
+
+# DataBase
+* http://www.cnblogs.com/cangqiongbingchen/p/7094822.html --- 数据库（分库分表）中间件对比
+## Performance
+## Security
+* https://blogs.msdn.microsoft.com/sqlsecurity/
+
+
 # Cloud
 ## Multi-tenant Applications 
 * [https://msdn.microsoft.com/en-us/library/ff966499.aspx](https://msdn.microsoft.com/en-us/library/ff966499.aspx) --- Developing Multi-tenant Applications for the Cloud
@@ -65,7 +105,13 @@ Thinking About Enterprise Application
 * [https://msdn.microsoft.com/en-us/library/aa479086.aspx](https://msdn.microsoft.com/en-us/library/aa479086.aspx) --- Multi-Tenant Data Architecture
 * [https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/](https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/) --- Azure multi-tenant documentation
 * [https://azure.microsoft.com/en-us/resources/videos/azurecon-2015-create-multi-tenant-saas-applications-powered-by-many-azure-sql-databases/](https://azure.microsoft.com/en-us/resources/videos/azurecon-2015-create-multi-tenant-saas-applications-powered-by-many-azure-sql-databases/) --- Create multi-tenant SaaS applications powered by many Azure SQL Databases
-## Reference
+## Micro-Service
+* https://azure.microsoft.com/en-us/blog/service-monitoring-and-diagnostics-2/
+* http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
+* 
+### Servicd fabric
+* https://github.com/Azure-Samples/service-fabric-dotnet-containers
+
 # Machine Leaning
 ## Reference
 # Big Data
