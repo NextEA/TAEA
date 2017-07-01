@@ -45,13 +45,13 @@ Thinking About Enterprise Application
 * [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
 
 # Web App
-## PWA(Progressive Web Apps)
-* https://johannesdachsel.com/journal/making-my-website-work-offline/
+* PWA(Progressive Web Apps)
+  - https://johannesdachsel.com/journal/making-my-website-work-offline/
 
 # Desktop App
 * WPF
 * PWA
-## Auto Update
+* [Auto Update](https://github.com/maskx/TAEA/blob/master/DesktopApp/AutoUpdate.md)
 
 # Store APP
 
@@ -74,19 +74,19 @@ Thinking About Enterprise Application
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * Bussiness Driven
 * Data Driven
-## [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-## [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+* [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 
 
 # [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
-## [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
-## [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
-## [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
-## [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
-## [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
+* [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
+* [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
+* [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
+* [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
+* [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
 
 # Code review
 * http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
