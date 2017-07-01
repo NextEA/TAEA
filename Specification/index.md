@@ -1,4 +1,5 @@
 
+
 # Specification
 # C# code guidelines
 ## Reference
@@ -18,13 +19,22 @@
 * [https://css-tricks.com/well-documented-css-codebase-look-like](https://css-tricks.com/well-documented-css-codebase-look-like)
 * [https://cssguidelin.es/](https://cssguidelin.es/) 
 * [https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
+* https://segmentfault.com/a/1190000009951469 --- CSS编码规范建议 
+* http://www.cnblogs.com/JQstronger/p/css-classname-rule.html
+
+
 
 # HTML code guidelines
 ## Reference
 * [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
 * https://github.com/AlloyTeam/CodeGuide --- Alloyteam代码规范
+* https://segmentfault.com/a/1190000009954345 --- HTML编码规范建议 
+* https://segmentfault.com/a/1190000003229217 --- HTML编码规范 
+* http://codeguide.bootcss.com/ -- 编码规范
 
 # SQL code guidelines
 ## Reference
 * [http://www.sqlstyle.guide/](http://www.sqlstyle.guide/) ---
 * [https://github.com/treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) --- A consistent code style guide for SQL to ensure legible and maintainable projects 
+* https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/
+
