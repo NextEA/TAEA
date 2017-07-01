@@ -21,6 +21,7 @@
 * [https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
 * https://segmentfault.com/a/1190000009951469 --- CSS编码规范建议 
 * http://www.cnblogs.com/JQstronger/p/css-classname-rule.html
+* https://segmentfault.com/a/1190000007023192  --- 谷歌 HTML/CSS 规范 
 
 
 
