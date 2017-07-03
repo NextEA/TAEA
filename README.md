@@ -12,6 +12,7 @@ Thinking About Enterprise Application
 * http://blog.restcase.com/7-rules-for-rest-api-uri-design/
 * http://blog.restcase.com/5-basic-rest-api-design-guidelines/
 * https://segmentfault.com/a/1190000009476912 --- Restful API 的设计规范
+* https://segmentfault.com/a/1190000008938935 --- Google API设计指南系列文章
 
 # Security
 ## Asp.Net
@@ -25,6 +26,11 @@ Thinking About Enterprise Application
 
 ## Reference
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
+* https://cloud.google.com/security/security-design/
+* https://mp.weixin.qq.com/s?__biz=MzI4NjYwMjcxOQ==&mid=2247483720&idx=1&sn=1ef57e5ae8b4f2af05d9a31467703934&chksm=ebdb25f8dcacacee8b45df995e01f9c7f8496435c47d1cd8d771bd2677f367dba9d7a4bf6c0a#rd
+* https://cloudonaut.io/aws-security-primer/
+* https://mp.weixin.qq.com/s?__biz=MzI4NjYwMjcxOQ==&mid=2247484103&idx=1&sn=a692e2f21e9744f23a4886e981c408b8&chksm=ebdb2677dcacaf61a94d4b1409d29feba6ec5ee82180bdc13743af3718c940654818367c08c0#rd
+* https://blog.sqreen.io/docker-security/
 
 ## Tool
 * https://github.com/dotnet-security-guard/roslyn-security-guard  --- Roslyn analyzers that aim to help security audit on .NET applications
@@ -113,7 +119,10 @@ Thinking About Enterprise Application
 ## Micro-Service
 * https://azure.microsoft.com/en-us/blog/service-monitoring-and-diagnostics-2/
 * http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
-* 
+* https://github.com/dotnet-architecture/eShopOnContainers --- Microservices Architecture and Containers based Reference Application 
+### Database
+* https://segmentfault.com/p/1210000010014116/read
+
 ### Servicd fabric
 * https://github.com/Azure-Samples/service-fabric-dotnet-containers
 
