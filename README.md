@@ -1,14 +1,16 @@
 
+
 # TAEA
 Thinking About Enterprise Application
 
 # API Design
 
 * REST
+  - https://github.com/Microsoft/api-guidelines
   - [https://github.com/aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
   - [http://blog.restcase.com/7-rules-for-rest-api-uri-design/](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
   - [https://docs.microsoft.com/en-us/azure/best-practices-api-design](https://docs.microsoft.com/en-us/azure/best-practices-api-design)
-  - [https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
   - [https://msdn.microsoft.com/en-us/library/ms998392.aspx](https://msdn.microsoft.com/en-us/library/ms998392.aspx) --- Security Checklists
   - https://segmentfault.com/a/1190000009972111 --- REST API URI 设计的七准则 
   - http://blog.restcase.com/7-rules-for-rest-api-uri-design/
