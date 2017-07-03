@@ -44,5 +44,23 @@
   - 下载进程同系统交互界面进程隔离，互不影响
 * 劣势：
   - 需要用户手动安装
-   其他网页启动程序困难，需要配置客户端注册表
+  - 其他网页启动程序困难，需要配置客户端注册表
+### Restart Manager
+* 优势
+* 劣势
+# Design
 
+# Reference
+* http://www.devx.com/dotnet/Article/10045 --- Automatically Upgrade Your .NET Applications On-the-Fly
+* http://msdn.microsoft.com/en-us/magazine/cc188766.aspx --- Write Auto-Updating Apps with .NET and the Background Intelligent Transfer Service API
+* https://github.com/Squirrel/Squirrel.Windows 
+* https://github.com/synhershko/NAppUpdate --- synhershko  / NAppUpdate 
+* http://www.codeproject.com/Articles/700435/Windows-service-auto-update-plugin-framework
+* https://github.com/LogosBible/bsdiff.net
+* http://community.bartdesmet.net/blogs/bart/archive/2006/11/12/Exploring-Windows-Vista_2700_s-Restart-Manager-in-C_2300_.aspx
+* http://www.codeproject.com/Articles/772868/Restart-Manager-Support-For-Windows-Application
+* https://autoupdaterdotnet.codeplex.com/
+* http://sharpbits.codeplex.com/
+* http://www.cnblogs.com/superch0054/archive/2004/10/22/4010244.html
+* https://msdn.microsoft.com/en-us/library/bb968799(v=vs.85).aspx --- Background Intelligent Transfer Service 
+* https://technet.microsoft.com/en-us/library/hh831696.aspx#Operating --- system versions for BranchCache
