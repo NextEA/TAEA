@@ -12,3 +12,4 @@
     * https://johannesdachsel.com/journal/making-my-website-work-offline/
   - https://github.com/meteor/meteor
   - https://github.com/VulcanJS/Vulcan
+  - https://johnpapa.net/insidespatemplate/
