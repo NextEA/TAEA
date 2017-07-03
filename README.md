@@ -1,3 +1,4 @@
+
 # TAEA
 Thinking About Enterprise Application
 
@@ -36,6 +37,10 @@ Thinking About Enterprise Application
 * [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 
+# Rule Engine
+* http://www.ckrule.com/cn/index.html
+* https://github.com/karthik25/simplerules
+* https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/
 
 # [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
 * [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
