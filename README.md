@@ -61,11 +61,7 @@ Thinking About Enterprise Application
 * [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
 * [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
 
-# Web App
-* PWA(Progressive Web Apps)
-  - https://johannesdachsel.com/journal/making-my-website-work-offline/
-* https://github.com/meteor/meteor
-* https://github.com/VulcanJS/Vulcan
+# [Web App](https://github.com/maskx/TAEA/blob/master/WebApp/index.md)
 
 # Desktop App
 * WPF
