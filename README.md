@@ -44,6 +44,7 @@ Thinking About Enterprise Application
 
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
+
 * [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
@@ -69,6 +70,8 @@ Thinking About Enterprise Application
 * [Auto Update](https://github.com/maskx/TAEA/blob/master/DesktopApp/AutoUpdate.md)
 
 # Store APP
+# Hybrid App
+* https://github.com/quasarframework/quasar
 
 # Code review guidelines
 # Testing
