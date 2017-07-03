@@ -82,6 +82,7 @@ Thinking About Enterprise Application
 * https://github.com/adamsitnik/awesome-dot-net-performance
 
 # Libs
+
 ## Object Pool
 ### Definition 
 ### Implementation
@@ -122,6 +123,7 @@ Thinking About Enterprise Application
 # Cloud
 ## Multi-tenant Applications 
 * [https://msdn.microsoft.com/en-us/library/ff966499.aspx](https://msdn.microsoft.com/en-us/library/ff966499.aspx) --- Developing Multi-tenant Applications for the Cloud
+* https://www.codeproject.com/Articles/809851/Multi-Tenancy-Design-Consideration
 * [https://azure.microsoft.com/en-us/blog/scaling-a-multi-tenant-application-with-azure-documentdb-2/](https://azure.microsoft.com/en-us/blog/scaling-a-multi-tenant-application-with-azure-documentdb-2/) --- Scaling a Multi-Tenant Application with Azure DocumentDB
 * [https://msdn.microsoft.com/en-us/library/aa479086.aspx](https://msdn.microsoft.com/en-us/library/aa479086.aspx) --- Multi-Tenant Data Architecture
 * [https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/](https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/) --- Azure multi-tenant documentation
