@@ -20,7 +20,6 @@ Thinking About Enterprise Application
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
-  
 
 # Security
 ## Asp.Net
@@ -31,7 +30,8 @@ Thinking About Enterprise Application
 * https://segmentfault.com/a/1190000007492381 --- Web 安全指南（上） 
 * https://segmentfault.com/a/1190000007564080 --- Web 安全指南（下） 
 * https://www.zhihu.com/question/21606800/answer/22268855 --- 零基础如何学习 Web 安全？
-
+## SQL
+* https://blogs.msdn.microsoft.com/sqlsecurity/
 ## Reference
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
 * https://cloud.google.com/security/security-design/
@@ -84,33 +84,10 @@ Thinking About Enterprise Application
 * https://github.com/adamsitnik/awesome-dot-net-performance
 
 # Libs
-
-## Object Pool
-### Definition 
-### Implementation
-## OData Web Api
-### Definition 
-### Implementation
-## Reference
-* [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
-
-
-# [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* Bussiness Driven
-* Data Driven
-* [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-* [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-
-
-# [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
-* [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
-* [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
-* [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
-* [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
-* [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
+* Object Pool
+* OData Web Api
+* Reference
+  * [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
 
 # Code review
 * http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
@@ -119,9 +96,6 @@ Thinking About Enterprise Application
 * http://www.cnblogs.com/cangqiongbingchen/p/7094822.html --- 数据库（分库分表）中间件对比
 ## Performance
 * https://msdn.microsoft.com/en-us/library/ff649152.aspx --- Improving .NET Application Performance and Scalability
-## Security
-* https://blogs.msdn.microsoft.com/sqlsecurity/
-
 
 # Cloud
 ## Multi-tenant Applications 
