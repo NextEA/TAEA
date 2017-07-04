@@ -1,3 +1,4 @@
+
 # Cloud
 # Multi-tenant Applications 
 * [https://msdn.microsoft.com/en-us/library/ff966499.aspx](https://msdn.microsoft.com/en-us/library/ff966499.aspx) --- Developing Multi-tenant Applications for the Cloud
@@ -14,6 +15,7 @@
 
 ## Database
 * https://segmentfault.com/p/1210000010014116/read --- 微服务改造中解决跨库问题的思路
+* http://www.cnblogs.com/cangqiongbingchen/p/7094822.html --- 数据库（分库分表）中间件对比
 
 ## Service fabric
 * https://github.com/Azure-Samples/service-fabric-dotnet-containers
