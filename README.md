@@ -9,13 +9,12 @@ Thinking About Enterprise Application
   - [https://github.com/aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
   - [http://blog.restcase.com/7-rules-for-rest-api-uri-design/](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
   - [https://docs.microsoft.com/en-us/azure/best-practices-api-design](https://docs.microsoft.com/en-us/azure/best-practices-api-design)
-
-  - [https://msdn.microsoft.com/en-us/library/ms998392.aspx](https://msdn.microsoft.com/en-us/library/ms998392.aspx) --- Security Checklists
   - https://segmentfault.com/a/1190000009972111 --- REST API URI 设计的七准则 
   - http://blog.restcase.com/7-rules-for-rest-api-uri-design/
   - http://blog.restcase.com/5-basic-rest-api-design-guidelines/
   - https://segmentfault.com/a/1190000009476912 --- Restful API 的设计规范
   - https://segmentfault.com/a/1190000008938935 --- Google API设计指南系列文章
+  - http://www.cnblogs.com/kaihe/p/4703118.html --- RESTful API设计实践 
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
