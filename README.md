@@ -96,6 +96,8 @@ Thinking About Enterprise Application
 * http://www.cnblogs.com/cangqiongbingchen/p/7094822.html --- 数据库（分库分表）中间件对比
 ## Performance
 * https://msdn.microsoft.com/en-us/library/ff649152.aspx --- Improving .NET Application Performance and Scalability
+* http://www.dell.com/content/topics/global.aspx/power/en/ps3q01_graham?c=us&l=en&cs=04 --- Web Server Sizing
+* https://technet.microsoft.com/en-us/library/bb608286.aspx --- Server Sizing Guide
 
 # Cloud
 ## Multi-tenant Applications 
