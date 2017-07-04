@@ -79,6 +79,7 @@ Thinking About Enterprise Application
 # Testing
 ## Unit Test
 ## Load Test
+
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
 
@@ -117,6 +118,7 @@ Thinking About Enterprise Application
 # DataBase
 * http://www.cnblogs.com/cangqiongbingchen/p/7094822.html --- 数据库（分库分表）中间件对比
 ## Performance
+* https://msdn.microsoft.com/en-us/library/ff649152.aspx --- Improving .NET Application Performance and Scalability
 ## Security
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 
