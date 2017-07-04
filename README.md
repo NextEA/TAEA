@@ -72,6 +72,7 @@ Thinking About Enterprise Application
 * [Auto Update](https://github.com/maskx/TAEA/blob/master/DesktopApp/AutoUpdate.md)
 
 # Store APP
+
 # Hybrid App
 * https://github.com/quasarframework/quasar
 
@@ -111,8 +112,10 @@ Thinking About Enterprise Application
 * https://azure.microsoft.com/en-us/blog/service-monitoring-and-diagnostics-2/
 * http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
 * https://github.com/dotnet-architecture/eShopOnContainers --- Microservices Architecture and Containers based Reference Application 
+* https://github.com/cecilphillip/aspnet-servicediscovery-patterns --- Samples of simple service discovery patterns with ASP .NET Core 
+
 ### Database
-* https://segmentfault.com/p/1210000010014116/read
+* https://segmentfault.com/p/1210000010014116/read --- 微服务改造中解决跨库问题的思路
 
 ### Servicd fabric
 * https://github.com/Azure-Samples/service-fabric-dotnet-containers
