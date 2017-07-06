@@ -44,6 +44,9 @@ Thinking About Enterprise Application
   - https://github.com/pomma89/ObjectPool
 * OData Web Api
   - https://github.com/maskx/OData
+* Cache
+  - https://github.com/filipw/Strathweb.CacheOutput
+  - https://github.com/aliostad/CacheCow
 * Reference
   * [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
 
