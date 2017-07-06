@@ -1,9 +1,8 @@
 # Workflow
 * Bussiness Driven
 * Data Driven
-
 * Workflow Engine Requirements
-  - Automated workflow deployment 
+  - Automated workflow deployment 
   - Simple decisions in the workflow 
   - Traceability of workflow executions
   - Replace ability of workflow engine 
@@ -51,7 +50,6 @@
   - Alerting and follow-up actions 
   - Configurable 
   - “Hot" deployment
-
 * Human Workflow
   - Definition 
   - Implementation
@@ -67,3 +65,7 @@
 * Data Driven Flow
   - Definition 
   - Implementation
+* Reference
+  - https://github.com/markjulmar/BioWF  --- .NET Bioinformatics Workflow designer and execution engine. 
+  
+  
