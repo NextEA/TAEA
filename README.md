@@ -30,6 +30,7 @@ Thinking About Enterprise Application
 * PWA
 * [Auto Update](https://github.com/maskx/TAEA/blob/master/DesktopApp/AutoUpdate.md)
 # Store APP
+
 # Hybrid App
 * https://github.com/quasarframework/quasar
 
@@ -55,7 +56,19 @@ Thinking About Enterprise Application
 * https://technet.microsoft.com/en-us/library/bb608286.aspx --- Server Sizing Guide
 
 # [Cloud](https://github.com/maskx/TAEA/blob/master/Cloud/index.md)
-
+* Networking
+* Storage
+* Servers
+* Virtualization
+* O/S
+* Middleware
+* Runtime
+* Data
+* Application
+  - Multi-tenant Applications
+  - Micro-Service
+  - API Design
+  - Service fabric
 # AI & Machine Leaning
 # Big Data
 # IOT
