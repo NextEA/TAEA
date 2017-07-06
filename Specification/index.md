@@ -1,3 +1,4 @@
+
 # Specification
 * https://seesparkbox.com/foundry/style_guides_as_products
 * https://github.com/wearehive/project-guidelines --- A set of best practices for JavaScript projects 
@@ -13,6 +14,7 @@
 # JavaScript code guidelines
 * Reference
   - https://github.com/standard/standard  ---  JavaScript Style Guide, with linter & automatic code fixer 
+  - https://github.com/Aaaaaashu/Guide --- 一份全面的前端开发规范手册
 
 # CSS code guidelines
 * Reference
