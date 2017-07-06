@@ -12,6 +12,9 @@
 * http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
 * https://github.com/dotnet-architecture/eShopOnContainers --- Microservices Architecture and Containers based Reference Application 
 * https://github.com/cecilphillip/aspnet-servicediscovery-patterns --- Samples of simple service discovery patterns with ASP .NET Core 
+## Service Discovery
+* https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
+
 # API Design
 * REST
   - https://github.com/Microsoft/api-guidelines
