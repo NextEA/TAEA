@@ -14,7 +14,7 @@
 * https://github.com/cecilphillip/aspnet-servicediscovery-patterns --- Samples of simple service discovery patterns with ASP .NET Core 
 ## Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
-
+* https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
 # API Design
 * REST
   - https://github.com/Microsoft/api-guidelines
