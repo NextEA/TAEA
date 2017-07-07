@@ -8,6 +8,8 @@ Thinking About Enterprise Application
 * http://blog.jobbole.com/110502/ --- 高性能服务器架构思路，不仅是思路
 * http://www.cnblogs.com/chejiangyi/p/6386143.html --- .net 基础服务开源战略规划备忘录 
 * http://bradfrost.github.io/style-guide-guide/
+* https://segmentfault.com/a/1190000008726334 --- 探究高可用服务端架构的优秀资料索引 
+
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
