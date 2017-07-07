@@ -17,6 +17,7 @@
 * http://www.jianshu.com/p/c1da990de905 --- 通用型认证与授权最小系统，以较小的代价实现中立开源项目：UniAuth
 * https://www.codeproject.com/Articles/1183150/Securing-ASP-NET-Web-API-using-Custom-Token-Based
 * https://andrewlock.net/introduction-to-authentication-with-asp-net-core/
+* http://www.cnblogs.com/yuzeyong/p/5578734.html --- 尝试封装适用于权限管理的通用API 
 ## API Design
 * REST
   - https://github.com/Microsoft/api-guidelines
