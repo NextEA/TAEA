@@ -92,6 +92,8 @@
   - https://github.com/iatek/workflow-engine
   - https://github.com/yinmingjun/jsWorkFlow
   - https://github.com/jon-camuso/jinflow
+  - https://github.com/baixuexiyang/drag 
+
 * 设计器
   - https://github.com/simon5408/workflow
   - https://github.com/osallou/bandit
