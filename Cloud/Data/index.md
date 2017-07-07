@@ -7,3 +7,5 @@
 * http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 * https://github.com/filipw/Strathweb.CacheOutput
 * https://github.com/aliostad/CacheCow
+* http://www.cnblogs.com/lanxiaoke/p/6502210.html --- 项目架构开发：数据访问层之Cache 
+* 
