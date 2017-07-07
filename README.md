@@ -19,7 +19,8 @@ Thinking About Enterprise Application
 * http://www.ckrule.com/cn/index.html
 * https://github.com/karthik25/simplerules
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/
-
+* http://www.cnblogs.com/jzhlin/p/4255883.html --- JAVA规则引擎JSR-94笔札
+* https://www.codeproject.com/Articles/404367/Basic-Help-on-NxBRE-Rule-Engine
 # [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
 * [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
 * [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
