@@ -9,6 +9,10 @@
 * https://www.zhihu.com/question/21606800/answer/22268855 --- 零基础如何学习 Web 安全？
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
+* http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
+* https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+* https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
+* 
 ## Tool
 * https://github.com/dotnet-security-guard/roslyn-security-guard  --- Roslyn analyzers that aim to help security audit on .NET applications
 ## XSS 
