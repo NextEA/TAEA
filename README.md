@@ -70,7 +70,7 @@ Thinking About Enterprise Application
 * http://www.dell.com/content/topics/global.aspx/power/en/ps3q01_graham?c=us&l=en&cs=04 --- Web Server Sizing
 * https://technet.microsoft.com/en-us/library/bb608286.aspx --- Server Sizing Guide
 * http://www.cnblogs.com/sheng-jie/p/7109385.html --- 性能优化知多少 
-
+* http://www.cnblogs.com/wetest/p/6911734.html --- Qzone 高性能 HTTPS 实践 
 # [Cloud](https://github.com/maskx/TAEA/blob/master/Cloud/index.md)
 * Networking
 * Storage
