@@ -7,6 +7,8 @@
 * https://segmentfault.com/a/1190000007492381 --- Web 安全指南（上） 
 * https://segmentfault.com/a/1190000007564080 --- Web 安全指南（下） 
 * https://www.zhihu.com/question/21606800/answer/22268855 --- 零基础如何学习 Web 安全？
+* http://www.cnblogs.com/yjf512/p/6590890.html --- 说说API的防重放机制
+
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
