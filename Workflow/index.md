@@ -82,7 +82,7 @@
   - https://github.com/wasabii/Cogito.ServiceFabric  --- run Windows Workflow activities inside Azure Service Fabric
   - https://github.com/dmetzgar/corewf --- WF runtime ported to work on .NET Core 
   - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C# 
-  - 
+  - https://github.com/shibamo/99-flow-designer --- Flow Designer In Angular 2 
 
   
   
