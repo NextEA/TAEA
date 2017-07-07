@@ -5,6 +5,7 @@ Thinking About Enterprise Application
 * https://github.com/App-vNext
 * https://dojo.io/
 * https://github.com/donnemartin/system-design-primer
+* https://segmentfault.com/a/1190000009652120 --- 软件架构模式 
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
