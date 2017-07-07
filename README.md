@@ -42,6 +42,8 @@ Thinking About Enterprise Application
 * Excel
 # 配置中心
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
+# Globalization
+* https://segmentfault.com/a/1190000009058572 --- https://segmentfault.com/a/1190000009058572
 # [Web App](https://github.com/maskx/TAEA/blob/master/WebApp/index.md)
 # Desktop App
 * WPF
