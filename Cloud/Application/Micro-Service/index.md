@@ -11,7 +11,7 @@
 ## 服务治理
 * http://www.cnblogs.com/googlemeoften/p/6020718.html --- 服务治理---限流（令牌桶算法） 
 ## 版本管理
-
+* http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 ## API Design
 * REST
   - https://github.com/Microsoft/api-guidelines
