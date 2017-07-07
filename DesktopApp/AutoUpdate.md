@@ -64,4 +64,5 @@
 * http://www.cnblogs.com/superch0054/archive/2004/10/22/4010244.html
 * https://msdn.microsoft.com/en-us/library/bb968799(v=vs.85).aspx --- Background Intelligent Transfer Service 
 * http://www.cnblogs.com/zhuweisky/p/5085099.html --- 自动升级系统的设计与实现（续2） -- 增加断点续传功能 （附最新源码） 
+* http://www.cnblogs.com/JamesLi2015/p/4749476.html --- 解析大型.NET ERP系统 自动更新 
 * https://technet.microsoft.com/en-us/library/hh831696.aspx#Operating --- system versions for BranchCache
