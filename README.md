@@ -11,6 +11,7 @@ Thinking About Enterprise Application
 * https://segmentfault.com/a/1190000008726334 --- 探究高可用服务端架构的优秀资料索引 
 * https://segmentfault.com/a/1190000009527879 --- https://segmentfault.com/a/1190000009527879
 * https://segmentfault.com/a/1190000009434193 --- 浅析分布式系统 
+* https://www.codeproject.com/Articles/987474/Bridging-the-client-server-boundary-an-experiment
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
