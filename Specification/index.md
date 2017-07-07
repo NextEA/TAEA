@@ -26,8 +26,6 @@
   - http://www.cnblogs.com/JQstronger/p/css-classname-rule.html
   - https://segmentfault.com/a/1190000007023192  --- 谷歌 HTML/CSS 规范 
 
-
-
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
@@ -41,4 +39,5 @@
   - [http://www.sqlstyle.guide/](http://www.sqlstyle.guide/) ---
   - [https://github.com/treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) --- A consistent code style guide for SQL to ensure legible and maintainable projects 
   - https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/
+  - https://www.simple-talk.com/sql/database-devops-sql/database-code-analysis/
 
