@@ -9,7 +9,8 @@ Thinking About Enterprise Application
 * http://www.cnblogs.com/chejiangyi/p/6386143.html --- .net 基础服务开源战略规划备忘录 
 * http://bradfrost.github.io/style-guide-guide/
 * https://segmentfault.com/a/1190000008726334 --- 探究高可用服务端架构的优秀资料索引 
-
+* https://segmentfault.com/a/1190000009527879 --- https://segmentfault.com/a/1190000009527879
+* https://segmentfault.com/a/1190000009434193 --- 浅析分布式系统 
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
