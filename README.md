@@ -26,7 +26,14 @@ Thinking About Enterprise Application
 * [CSS code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#css-code-guidelines)
 * [HTML code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#html-code-guidelines)
 * [SQL code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#sql-code-guidelines)
-
+# Print
+* HTML
+  - http://www.daqianduan.com/6370.html --- css print
+* XPS
+  - https://roecode.wordpress.com/2007/12/21/using-flowdocument-xaml-to-print-xps-documents/
+* PDF
+* Word
+* Excel
 # [Web App](https://github.com/maskx/TAEA/blob/master/WebApp/index.md)
 # Desktop App
 * WPF
