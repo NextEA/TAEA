@@ -67,5 +67,22 @@
   - Implementation
 * Reference
   - https://github.com/markjulmar/BioWF  --- .NET Bioinformatics Workflow designer and execution engine. 
+  - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
+  - https://github.com/dagjaneiro/workflow-engine --- An ES6 workflow engine 
+  - https://github.com/birdbrained/ember-workflow-engine
+  - https://github.com/nherment/node-sonic
+  - https://github.com/kwantu/workflow --- Javascript based workflow engine 
+  - https://github.com/besley/Slickflow --- 开源工作流引擎 .NET Open Source Workflow Engine 
+  - https://github.com/wmbenedetto/turbine.js --- JavaScript Workflow Engine 
+  - https://github.com/optimajet/WorkflowEngine.NET --- WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service). 
+  - https://github.com/paed01/bpmn-engine --- BPMN 2.0 execution engine. Open source javascript workflow engine.
+  - https://github.com/gary-b/WF4JSDesigner --- Web based designer for Workflow Foundation (POC). 
+  - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example 
+  - https://github.com/danielgerlag/workflow-core --- Lightweight workflow engine for .NET Standard 
+  - https://github.com/wasabii/Cogito.ServiceFabric  --- run Windows Workflow activities inside Azure Service Fabric
+  - https://github.com/dmetzgar/corewf --- WF runtime ported to work on .NET Core 
+  - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C# 
+  - 
+
   
   
