@@ -25,6 +25,7 @@
   - https://segmentfault.com/a/1190000009951469 --- CSS编码规范建议 
   - http://www.cnblogs.com/JQstronger/p/css-classname-rule.html
   - https://segmentfault.com/a/1190000007023192  --- 谷歌 HTML/CSS 规范 
+  - http://www.cnblogs.com/lvyongbo/p/7109951.html --- MaintainableCSS 《可维护性 CSS》 --- 复用篇 
 
 # HTML code guidelines
 * Reference
