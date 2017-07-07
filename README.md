@@ -12,6 +12,7 @@ Thinking About Enterprise Application
 * https://segmentfault.com/a/1190000009527879 --- https://segmentfault.com/a/1190000009527879
 * https://segmentfault.com/a/1190000009434193 --- 浅析分布式系统 
 * https://www.codeproject.com/Articles/987474/Bridging-the-client-server-boundary-an-experiment
+* http://www.cnblogs.com/huyong/p/4182236.html --- RDIFramework.NET ━ .NET快速信息化系统开发框架
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 # [Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 * [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
