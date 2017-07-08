@@ -5,6 +5,8 @@
 * http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
 * https://github.com/dotnet-architecture/eShopOnContainers --- Microservices Architecture and Containers based Reference Application 
 * https://github.com/cecilphillip/aspnet-servicediscovery-patterns --- Samples of simple service discovery patterns with ASP .NET Core 
+* http://www.cnblogs.com/liuning8023/p/4493156.html --- 微服务（Microservices）
+* https://martinfowler.com/articles/microservices.html
 ## Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
