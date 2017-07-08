@@ -17,6 +17,7 @@
 ## API Design
 * https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
 * REST
+  - https://codewords.recurse.com/issues/five/what-restful-actually-means
   - https://github.com/Microsoft/api-guidelines
   - [https://github.com/aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
   - [http://blog.restcase.com/7-rules-for-rest-api-uri-design/](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
@@ -30,6 +31,7 @@
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
-
+* https://dzone.com/articles/best-practices-for-api-error-handling
+* https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
 ## Service fabric
 * https://github.com/Azure-Samples/service-fabric-dotnet-containers
