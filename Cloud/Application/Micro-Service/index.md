@@ -15,6 +15,7 @@
 ## 版本管理
 * http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 ## API Design
+* https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
 * REST
   - https://github.com/Microsoft/api-guidelines
   - [https://github.com/aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)
