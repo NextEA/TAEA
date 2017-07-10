@@ -21,6 +21,7 @@
 * http://www.cnblogs.com/FlightButterfly/p/7118324.html
 * https://techblog.toutiao.com/2017/06/06/xss/ --- Web安全之XSS 
 ## Code
+* https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines
 
 ## Reference
 * [https://github.com/OWASP](https://github.com/OWASP) ---  Open Web Application Security Project 
