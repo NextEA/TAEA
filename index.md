@@ -53,7 +53,9 @@ Thinking About Enterprise Application
 
 # Testing
 * Unit Test
-* Load Test
+* Performance Testing
+  - https://perftesting.codeplex.com/ --- patterns & practices: Performance Testing Guidance
+  - https://perftestingguide.codeplex.com/ --- patterns & practices: Performance Testing Guidance for Web Applications
 
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
