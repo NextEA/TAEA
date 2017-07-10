@@ -10,7 +10,12 @@
   - [https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx)
   - [http://www.cnblogs.com/jacklaw/articles/1229481.html](http://www.cnblogs.com/jacklaw/articles/1229481.html)
 * Tool
-  - [https://github.com/SonarSource/sonar-csharp](https://github.com/SonarSource/sonar-csharp) --- Code analyzer for C# projects 
+  - https://github.com/SonarSource/sonar-csharp --- Code analyzer for C# projects 
+  - https://github.com/dotnet/roslyn-analyzers
+  - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017
+  - http://hao.jobbole.com/static_code_analysis_tool_list_opensource_lang/ --- 静态代码分析工具清单：开源篇（各语言）
+  - https://github.com/Microsoft/DevSkim  --- DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. 
+  - https://github.com/dotnet-security-guard/roslyn-security-guard --- Roslyn analyzers that aim to help security audit on .NET applications.
 # JavaScript code guidelines
 * Reference
   - https://github.com/standard/standard  ---  JavaScript Style Guide, with linter & automatic code fixer 
