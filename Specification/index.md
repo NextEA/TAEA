@@ -16,6 +16,7 @@
   - https://github.com/standard/standard  ---  JavaScript Style Guide, with linter & automatic code fixer 
   - https://github.com/Aaaaaashu/Guide --- 一份全面的前端开发规范手册
   - http://www.cnblogs.com/hetaojs/p/6497542.html  --- vaScript代码规范和性能整理 
+  - https://weblogs.asp.net/bleroy/the-format-for-javascript-doc-comments
 # CSS code guidelines
 * Reference
   - [https://github.com/bxm0927/web-code-standards](https://github.com/bxm0927/web-code-standards) --- 通过分析 Github 众多前端代码库，总结出来的前端代码书写规范。 
