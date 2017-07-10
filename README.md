@@ -79,7 +79,7 @@ Thinking About Enterprise Application
 
 # Code review
 * http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
-
+* https://ana-balica.github.io/2017/02/21/code-review-checklist/
 ## Performance
 * https://msdn.microsoft.com/en-us/library/ff649152.aspx --- Improving .NET Application Performance and Scalability
 * http://www.dell.com/content/topics/global.aspx/power/en/ps3q01_graham?c=us&l=en&cs=04 --- Web Server Sizing
