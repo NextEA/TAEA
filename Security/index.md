@@ -10,6 +10,7 @@
 * http://www.cnblogs.com/yjf512/p/6590890.html --- 说说API的防重放机制
 * https://github.com/shieldfy/API-Security-Checklist
 * https://wcfsecurity.codeplex.com/ --- patterns & practices: WCF Security Guidance
+* https://wcfsecurityguide.codeplex.com/ --- patterns & practices Improving Web Services Security Guide
 * https://azuresecurity.codeplex.com/ --- patterns & practices: Windows Azure Security Guidance
 
 ## SQL
