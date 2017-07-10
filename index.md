@@ -52,7 +52,8 @@ Thinking About Enterprise Application
 * https://segmentfault.com/a/1190000009058572 --- 前端通用国际化解决方案 
 
 # Testing
-* Unit Test
+* Acceptance Test
+  - https://testingguidance.codeplex.com/ --- patterns & practices Acceptance Test Engineering Guidance
 * Performance Testing
   - https://perftesting.codeplex.com/ --- patterns & practices: Performance Testing Guidance
   - https://perftestingguide.codeplex.com/ --- patterns & practices: Performance Testing Guidance for Web Applications
