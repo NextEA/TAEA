@@ -15,26 +15,32 @@
 * Reference
   - https://github.com/standard/standard  ---  JavaScript Style Guide, with linter & automatic code fixer 
   - https://github.com/Aaaaaashu/Guide --- 一份全面的前端开发规范手册
-  - http://www.cnblogs.com/hetaojs/p/6497542.html  --- vaScript代码规范和性能整理 
-  - https://weblogs.asp.net/bleroy/the-format-for-javascript-doc-comments
+  - http://www.cnblogs.com/hetaojs/p/6497542.html  --- JavaScript代码规范和性能整理 
+  - https://weblogs.asp.net/bleroy/the-format-for-javascript-doc-comments
+  - http://cherryblog.site/developing-guideline.html
+  - https://github.com/airbnb/javascript
+   
 # CSS code guidelines
 * Reference
   - [https://github.com/bxm0927/web-code-standards](https://github.com/bxm0927/web-code-standards) --- 通过分析 Github 众多前端代码库，总结出来的前端代码书写规范。 
   - [https://css-tricks.com/well-documented-css-codebase-look-like](https://css-tricks.com/well-documented-css-codebase-look-like)
   - [https://cssguidelin.es/](https://cssguidelin.es/) 
-  - [https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/](https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/)
   - https://segmentfault.com/a/1190000009951469 --- CSS编码规范建议 
   - http://www.cnblogs.com/JQstronger/p/css-classname-rule.html
   - https://segmentfault.com/a/1190000007023192  --- 谷歌 HTML/CSS 规范 
-  - http://www.cnblogs.com/lvyongbo/p/7109951.html --- MaintainableCSS 《可维护性 CSS》 --- 复用篇 
+  - http://www.cnblogs.com/lvyongbo/p/7109951.html --- MaintainableCSS 《可维护性 CSS》 --- 复用篇
+  - https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/
 
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
   - https://github.com/AlloyTeam/CodeGuide --- Alloyteam代码规范
-  - https://segmentfault.com/a/1190000009954345 --- HTML编码规范建议 
+  - https://segmentfault.com/a/1190000009954345 --- HTML编码规范建议
   - https://segmentfault.com/a/1190000003229217 --- HTML编码规范 
   - http://codeguide.bootcss.com/ -- 编码规范
+  - https://github.com/bxm0927/web-code-standards
+* Tools
+  - https://github.com/philipwalton/html-inspector  --- HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.  
 
 # SQL code guidelines
 * Reference
