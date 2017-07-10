@@ -19,6 +19,7 @@
 * https://github.com/dotnet-security-guard/roslyn-security-guard  --- Roslyn analyzers that aim to help security audit on .NET applications
 ## XSS 
 * http://www.cnblogs.com/FlightButterfly/p/7118324.html
+* https://techblog.toutiao.com/2017/06/06/xss/ --- Web安全之XSS 
 ## Code
 
 ## Reference
