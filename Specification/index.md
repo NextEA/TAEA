@@ -1,4 +1,4 @@
-
+ 
 # Specification
 * https://seesparkbox.com/foundry/style_guides_as_products
 * https://github.com/wearehive/project-guidelines --- A set of best practices for JavaScript projects 
@@ -8,7 +8,7 @@
   - [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
   - [https://csharpguidelines.codeplex.com/](https://csharpguidelines.codeplex.com/)
   - [https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx](https://msdn.microsoft.com/zh-cn/library/ms229002(v=vs.110).aspx)
-  - [http://www.cnblogs.com/jacklaw/articles/1229481.html](http://www.cnblogs.com/jacklaw/articles/1229481.html)
+  - http://www.cnblogs.com/jacklaw/articles/1229481.html --- C#编程风格约定 
 * Tool
   - https://github.com/SonarSource/sonar-csharp --- Code analyzer for C# projects 
   - https://github.com/dotnet/roslyn-analyzers
