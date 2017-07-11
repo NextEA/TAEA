@@ -26,6 +26,7 @@
   - https://weblogs.asp.net/bleroy/the-format-for-javascript-doc-comments
   - http://cherryblog.site/developing-guideline.html
   - https://github.com/airbnb/javascript
+  - https://github.com/ryanmcdermott/clean-code-javascript --- Clean Code concepts adapted for JavaScript
    
 # CSS code guidelines
 * Reference
