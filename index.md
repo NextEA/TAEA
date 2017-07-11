@@ -79,8 +79,8 @@ Thinking About Enterprise Application
 * ***[Rule Engine](https://github.com/maskx/TAEA/blob/master/Rule%20Engine/index.md)***
   
 * ***Print***
-  - watermark
-  - HTML
+  - watermark
+  - HTML
     * http://www.daqianduan.com/6370.html --- css print
   - XPS
     * https://roecode.wordpress.com/2007/12/21/using-flowdocument-xaml-to-print-xps-documents/
