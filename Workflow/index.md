@@ -106,4 +106,4 @@
   - https://github.com/gary-b/WF4JSDesigner --- Web based designer for Workflow Foundation (POC). 
   - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example  
   - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
-  
+  - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
