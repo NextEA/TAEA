@@ -74,20 +74,9 @@ Thinking About Enterprise Application
 
 # Common Requirement
 * ***[Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)***
-  - [Human Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-  - [System Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-  - [Web Page Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-  - [Desktop Form Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
-  - [Data Driven Flow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)
 
-* ***Rule Engine***
-  - http://www.ckrule.com/cn/index.html
-  - https://github.com/karthik25/simplerules
-  - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/
-  - http://www.cnblogs.com/jzhlin/p/4255883.html --- JAVA规则引擎JSR-94笔札
-  - https://www.codeproject.com/Articles/404367/Basic-Help-on-NxBRE-Rule-Engine
-  - https://www.codeproject.com/Articles/194167/Logician-A-Table-based-Rules-Engine-Suite-In-C-NET
-
+* ***[Rule Engine](https://github.com/maskx/TAEA/blob/master/Rule%20Engine/index.md)***
+  
 * ***Print***
   - HTML
     * http://www.daqianduan.com/6370.html --- css print
