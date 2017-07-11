@@ -1,55 +1,6 @@
 # Workflow
 * Bussiness Driven
 * Data Driven
-* Workflow Engine Requirements
-  - Automated workflow deployment 
-  - Simple decisions in the workflow 
-  - Traceability of workflow executions
-  - Replace ability of workflow engine 
-  - Test environment for workflow developing 
-  - “Hot" deployment for workflow definitions 
-  - Graphical design of workflow definitions 
-  - Workflow design could be done by the Fraud Manager 
-  - Possibility for using sub workflows 
-  - Fail-safe 
-  - Small door-to-door time  
-  - Dynamic scaling 
-  - Cloud-aware 
-  - No down time for system changes/updates 
-  - Configurable 
-  - Flexible extendible of existing workflow definitions 
-  - State of the art 
-  - Forks and joins in the workflow 
-  - Watchdog timer 
-  - multi tenancy  
-  - Temporary deactivation of activities 
-  - Data transfer between the activities 
-  - Reusability of workflow definitions 
-  - Client specific workflow definition 
-  - Call of internal and external business services/functions
- 
-* Decision Engine Requirements
-  - Operators "like excel„ 
-  - Local computing center enabled 
-  - “Speaks" generic protocol 
-  - Fail-safe 
-  - Small door-to-door time 
-  - Dynamic scaling 
-  - Cloud-aware 
-  - Replace ability of decision engine 
-  - Different rule set for customer groups/product groups 
-  - Define standard rule set 
-  - User-friendly user interface for clients 
-  - Multi tenancy  
-  - Champion challenger testing 
-  - Versioning of decision trees 
-  - Traceability of decision engine executions 
-  - User-friendly user interface for internal use 
-  - Flexible decision tree design 
-  - A/B testing with historical data 
-  - Alerting and follow-up actions 
-  - Configurable 
-  - “Hot" deployment
 * Human Workflow
   - Definition 
   - Implementation
@@ -93,6 +44,8 @@
   - https://github.com/yinmingjun/jsWorkFlow
   - https://github.com/jon-camuso/jinflow
   - https://github.com/baixuexiyang/drag 
+  - https://bpmn2wf.codeplex.com/ --- BPMN2WF is a prototype application for transforming BPMN models into Workflow Foundation (WF) code. The project is targeting the actual version of Workflow (Version 4.0). It started with an analysis and a proof of concept to get an impression of the complexity and decide the technical approach. Development focuses on flexibility and the ability for enhancements and customization of transformation and mappings.
+
 
 * 设计器
   - https://github.com/simon5408/workflow
@@ -107,3 +60,18 @@
   - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example  
   - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
   - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
+  
+ * Page Workflow
+   - http://blogs.msdn.com/b/mwinkle/archive/2007/06/07/introducing-the-pageflow-sample.aspx
+   - https://pageflowwf.codeplex.com/  --- Pageflow is based upon Workflow Foundation, and can be used to drive user interfaces. It has it's own workflow type and on every transition (movement from screen to screen) activity additional work can be done between the transition from one 'screen' to another 'screen'.
+It can be used with ASP.NET or WPF.
+Pageflow was initialy developed by Matt Winkler.
+All additions we've done on pageflow will be submitted towards the codeplex source.
+   - http://code.msdn.microsoft.com/Windows-Workflow-eaa24bdb  --- Windows Workflow Foundation (WF4) - How to use Workflow from WPF
+ * WF 4.0
+   - https://social.technet.microsoft.com/wiki/contents/articles/12326.windows-workflow-wf-4-x-samples.aspx
+   - http://code.msdn.microsoft.com/silverlight/Windows-Workflow-f2c91fd7/view/SourceCode#content --- Windows Workflow Foundation (WF4) - Silverlight / State Machine Workflow Service
+   
+   - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
+   - 
+  
