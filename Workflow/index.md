@@ -73,10 +73,10 @@ All additions we've done on pageflow will be submitted towards the codeplex sour
    - https://social.technet.microsoft.com/wiki/contents/articles/12326.windows-workflow-wf-4-x-samples.aspx
    - http://code.msdn.microsoft.com/silverlight/Windows-Workflow-f2c91fd7/view/SourceCode#content --- Windows Workflow Foundation (WF4) Silverlight / State Machine Workflow Service
    - http://xhinker.com/post/WF4Create-Your-Own-ServiceHostFactory.aspx
-   - http://blog.petegoo.com/2011/09/02/building-an-enterprise-workflow-system-with-wf4/
-   - https://msdn.microsoft.com/en-us/library/dd489452(v=vs.110).aspx#BKMK_CreateForm
-   - http://www.cnblogs.com/yungboy/archive/2011/08/29/2158467.html
-   - http://wf.codeplex.com/wikipage?title=WebAPIWorkflow
-   - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
+   - http://blog.petegoo.com/2011/09/02/building-an-enterprise-workflow-system-with-wf4/
+   - https://msdn.microsoft.com/en-us/library/dd489452(v=vs.110).aspx#BKMK_CreateForm
+   - http://www.cnblogs.com/yungboy/archive/2011/08/29/2158467.html
+   - http://wf.codeplex.com/wikipage?title=WebAPIWorkflow
+   - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
    - 
   
