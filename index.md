@@ -48,7 +48,8 @@ Thinking About Enterprise Application
 * https://andrewlock.net/introduction-to-authentication-with-asp-net-core/
 * http://www.cnblogs.com/yuzeyong/p/5578734.html --- 尝试封装适用于权限管理的通用API 
 * http://www.cnblogs.com/kuangood/p/4640497.html --- 通用权限管理系统 适合众多行业 ，生鲜，汽配，仓储配送 
-
+* http://m.blog.csdn.net/capsicum29/article/details/57404961 --- 解决数据分权访问----SQL2016 行级安全解决方案
+* http://m.blog.csdn.net/capsicum29/article/details/55832896 --- 数据库权限分配探讨
 # Globalization
 * https://segmentfault.com/a/1190000009058572 --- 前端通用国际化解决方案 
 
