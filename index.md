@@ -36,7 +36,7 @@ Thinking About Enterprise Application
 
 # Monitoring
 * https://www.azure.cn/documentation/articles/best-practices-monitoring/
-
+* https://github.com/dotnet-architecture/HealthChecks --- Health checks for building services, such as with ASP.NET Core 
 # Configuration
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
 
