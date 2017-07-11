@@ -14,6 +14,7 @@ Thinking About Enterprise Application
 * https://www.codeproject.com/Articles/987474/Bridging-the-client-server-boundary-an-experiment
 * http://www.cnblogs.com/huyong/p/4182236.html --- RDIFramework.NET ━ .NET快速信息化系统开发框架
 * https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index --- Framework Design Guidelines
+* https://www.codeproject.com/Articles/717656/How-to-build-an-Enterprise-Framework-for-NET-based
 
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 * [Asp.Net](https://github.com/maskx/TAEA/blob/master/Security/index.md#aspnet)
