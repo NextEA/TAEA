@@ -45,7 +45,7 @@
   - https://github.com/jon-camuso/jinflow
   - https://github.com/baixuexiyang/drag 
   - https://bpmn2wf.codeplex.com/ --- BPMN2WF is a prototype application for transforming BPMN models into Workflow Foundation (WF) code. The project is targeting the actual version of Workflow (Version 4.0). It started with an analysis and a proof of concept to get an impression of the complexity and decide the technical approach. Development focuses on flexibility and the ability for enhancements and customization of transformation and mappings.
-
+  - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
 
 * 设计器
   - https://github.com/simon5408/workflow
@@ -68,10 +68,15 @@ It can be used with ASP.NET or WPF.
 Pageflow was initialy developed by Matt Winkler.
 All additions we've done on pageflow will be submitted towards the codeplex source.
    - http://code.msdn.microsoft.com/Windows-Workflow-eaa24bdb  --- Windows Workflow Foundation (WF4) - How to use Workflow from WPF
+   - https://www.codeproject.com/Articles/1194298/Windows-Workflow-and-WPF
  * WF 4.0
    - https://social.technet.microsoft.com/wiki/contents/articles/12326.windows-workflow-wf-4-x-samples.aspx
-   - http://code.msdn.microsoft.com/silverlight/Windows-Workflow-f2c91fd7/view/SourceCode#content --- Windows Workflow Foundation (WF4) - Silverlight / State Machine Workflow Service
-   
-   - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
+   - http://code.msdn.microsoft.com/silverlight/Windows-Workflow-f2c91fd7/view/SourceCode#content --- Windows Workflow Foundation (WF4) Silverlight / State Machine Workflow Service
+   - http://xhinker.com/post/WF4Create-Your-Own-ServiceHostFactory.aspx
+   - http://blog.petegoo.com/2011/09/02/building-an-enterprise-workflow-system-with-wf4/
+   - https://msdn.microsoft.com/en-us/library/dd489452(v=vs.110).aspx#BKMK_CreateForm
+   - http://www.cnblogs.com/yungboy/archive/2011/08/29/2158467.html
+   - http://wf.codeplex.com/wikipage?title=WebAPIWorkflow
+   - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
    - 
   
