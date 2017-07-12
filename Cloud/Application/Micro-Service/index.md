@@ -7,6 +7,7 @@
 * https://github.com/cecilphillip/aspnet-servicediscovery-patterns --- Samples of simple service discovery patterns with ASP .NET Core 
 * http://www.cnblogs.com/liuning8023/p/4493156.html --- 微服务（Microservices）
 * https://martinfowler.com/articles/microservices.html
+* http://geek.csdn.net/news/detail/210557 --- 实施微服务架构的关键技术
 ## Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
