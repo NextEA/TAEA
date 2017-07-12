@@ -53,6 +53,7 @@ Thinking About Enterprise Application
 * http://m.blog.csdn.net/capsicum29/article/details/55832896 --- 数据库权限分配探讨
 # Globalization
 * https://segmentfault.com/a/1190000009058572 --- 前端通用国际化解决方案 
+* https://github.com/globalizejs/globalize --- A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data 
 
 # Testing
 * Acceptance Test
