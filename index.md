@@ -84,7 +84,8 @@ Thinking About Enterprise Application
   - watermark
   - HTML
     * http://www.daqianduan.com/6370.html --- css print
-  - XPS
+    * https://segmentfault.com/a/1190000010145260 --- CSS 打印
+  - XPS
     * https://roecode.wordpress.com/2007/12/21/using-flowdocument-xaml-to-print-xps-documents/
   - PDF
   - Word
