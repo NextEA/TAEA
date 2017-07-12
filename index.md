@@ -105,6 +105,7 @@ Thinking About Enterprise Application
 # Libs
 * Object Pool
   - https://github.com/pomma89/ObjectPool
+  - http://adamsitnik.com/Array-Pool/
 * OData Web Api
   - https://github.com/maskx/OData
 * Reference
