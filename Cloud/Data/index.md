@@ -9,4 +9,4 @@
 * https://github.com/filipw/Strathweb.CacheOutput
 * https://github.com/aliostad/CacheCow
 * http://www.cnblogs.com/lanxiaoke/p/6502210.html --- 项目架构开发：数据访问层之Cache 
-* 
+* https://segmentfault.com/p/1210000010168651/read --- 那些年使用缓存踩过的坑
