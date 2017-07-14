@@ -41,6 +41,7 @@
   - http://www.cnblogs.com/lvyongbo/p/7109951.html --- MaintainableCSS 《可维护性 CSS》 --- 复用篇
   - https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/
   - https://github.com/necolas/idiomatic-css --- Principles of writing consistent, idiomatic CSS. 
+  - https://css-tricks.com/methods-organize-css/ --- Methods to Organize CSS
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
