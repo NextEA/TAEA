@@ -104,14 +104,7 @@ Thinking About Enterprise Application
 # Hybrid App
 * https://github.com/quasarframework/quasar
 
-# Libs
-* Object Pool
-  - https://github.com/pomma89/ObjectPool
-  - http://adamsitnik.com/Array-Pool/
-* OData Web Api
-  - https://github.com/maskx/OData
-* Reference
-  * [https://github.com/AArnott/pinvoke](https://github.com/AArnott/pinvoke)--- A library containing all PInvoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.
+# [Libs](https://github.com/maskx/TAEA/blob/master/Libs/index.md)
 
 # [Cloud](https://github.com/maskx/TAEA/blob/master/Cloud/index.md)
 * Networking
@@ -126,7 +119,7 @@ Thinking About Enterprise Application
   - [Cache](https://github.com/maskx/TAEA/blob/master/Cloud/Data/index.md#cache)
 * [Application](https://github.com/maskx/TAEA/blob/master/Cloud/Application/index.md)
   - [Multi-tenant Applications](https://github.com/maskx/TAEA/blob/master/Cloud/Application/index.md#multi-tenant-applications)
-  - [Micro-Service](https://github.com/maskx/TAEA/blob/master/Cloud/Application/index.md#micro-service)
+  - [Micro-Service](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/index.md)
   - [API Design](https://github.com/maskx/TAEA/blob/master/Cloud/Application/index.md#api-design)
   - [Service fabric](https://github.com/maskx/TAEA/blob/master/Cloud/Application/index.md#service-fabric)
 # AI & Machine Leaning
