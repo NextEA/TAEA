@@ -56,14 +56,14 @@
 * https://github.com/Squirrel/Squirrel.Windows 
 * https://github.com/synhershko/NAppUpdate --- synhershko  / NAppUpdate 
 * http://www.codeproject.com/Articles/700435/Windows-service-auto-update-plugin-framework
-* https://github.com/LogosBible/bsdiff.net
+* https://github.com/LogosBible/bsdiff.net --- A .NET port of Colin Percival's bsdiff & bspatch 
 * http://community.bartdesmet.net/blogs/bart/archive/2006/11/12/Exploring-Windows-Vista_2700_s-Restart-Manager-in-C_2300_.aspx
 * http://www.codeproject.com/Articles/772868/Restart-Manager-Support-For-Windows-Application
 * https://autoupdaterdotnet.codeplex.com/
-* http://sharpbits.codeplex.com/
-* http://www.cnblogs.com/superch0054/archive/2004/10/22/4010244.html
+* http://sharpbits.codeplex.com/ --- SharpBITS.NET is a .NET wrapper of the BITS API and a little Windows UI application for easier access to BITS up- and downloads. 
+* http://www.cnblogs.com/superch0054/archive/2004/10/22/4010244.html --- Write Auto-Updating Apps with .NET and the Background Intelligent Transfer Service API
 * https://msdn.microsoft.com/en-us/library/bb968799(v=vs.85).aspx --- Background Intelligent Transfer Service 
 * http://www.cnblogs.com/zhuweisky/p/5085099.html --- 自动升级系统的设计与实现（续2） -- 增加断点续传功能 （附最新源码） 
 * http://www.cnblogs.com/JamesLi2015/p/4749476.html --- 解析大型.NET ERP系统 自动更新 
 * https://technet.microsoft.com/en-us/library/hh831696.aspx#Operating --- system versions for BranchCache
-* https://autoupdaterdotnet.codeplex.com/
+
