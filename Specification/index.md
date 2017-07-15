@@ -5,6 +5,7 @@
 * http://www.cnblogs.com/clive/archive/2010/01/03/The_Elements_of_Programming_Style.html
 * https://www.thecodingdelight.com/write-clean-code/
 * https://github.com/Kristories/awesome-guidelines --- A curated list of high quality coding style conventions and standards. 
+
 # C# code guidelines
 * Reference
   - [https://github.com/dennisdoomen/CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines) --- A set of coding guidelines for C# 3.0, C# 4.0 and C# 5.0, design principles and layout rules for improving the overall quality of your code development. 
@@ -43,6 +44,7 @@
   - https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/
   - https://github.com/necolas/idiomatic-css --- Principles of writing consistent, idiomatic CSS. 
   - https://css-tricks.com/methods-organize-css/ --- Methods to Organize CSS
+  - http://web.jobbole.com/91792/ --- CSS 样式书写规范
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
