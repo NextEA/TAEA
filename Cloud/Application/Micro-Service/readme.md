@@ -1,5 +1,7 @@
 # Micro-Service
 * http://microservices.io/patterns/index.html
+* http://emacoo.cn/arch/microservice-overview/ --- 微服务化改造系列之一：总览 
+* https://segmentfault.com/a/1190000007689560  --- 微服务化改造系列之四：授权中心 
 * https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/
 * https://azure.microsoft.com/en-us/blog/service-monitoring-and-diagnostics-2/
 * http://blog.jobbole.com/109902/ --- 服务拆分与架构演进
@@ -12,6 +14,9 @@
 # Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
+* https://segmentfault.com/a/1190000007547712 --- 服务注册中心
+#  配置中心
+* https://segmentfault.com/a/1190000007616797 ---  配置中心
 # 服务治理
 * http://www.cnblogs.com/googlemeoften/p/6020718.html --- 服务治理---限流（令牌桶算法） 
 # 版本管理
