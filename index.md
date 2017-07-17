@@ -56,6 +56,8 @@ Thinking About Enterprise Application
 * https://github.com/globalizejs/globalize --- A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data 
 
 # Testing
+* Automated Testing
+  - http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * Acceptance Test
   - https://testingguidance.codeplex.com/ --- patterns & practices Acceptance Test Engineering Guidance
 * Performance Testing
