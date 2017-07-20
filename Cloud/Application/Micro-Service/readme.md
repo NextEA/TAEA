@@ -31,6 +31,8 @@
   * https://github.com/fanliang11/surging
   *
 * https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
+* https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
+* https://segmentfault.com/a/1190000010261889 --- [译] 怎样使用GraphQL - 2.GraphQL是更好的REST 
 * REST
   - https://codewords.recurse.com/issues/five/what-restful-actually-means
   - https://github.com/Microsoft/api-guidelines
@@ -43,6 +45,7 @@
   - https://segmentfault.com/a/1190000009476912 --- Restful API 的设计规范
   - https://segmentfault.com/a/1190000008938935 --- Google API设计指南系列文章
   - http://www.cnblogs.com/kaihe/p/4703118.html --- RESTful API设计实践 
+  - https://segmentfault.com/a/1190000010261115 --- RESTful API 实践 
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
