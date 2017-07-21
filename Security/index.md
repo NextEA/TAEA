@@ -12,7 +12,7 @@
 * https://wcfsecurity.codeplex.com/ --- patterns & practices: WCF Security Guidance
 * https://wcfsecurityguide.codeplex.com/ --- patterns & practices Improving Web Services Security Guide
 * https://azuresecurity.codeplex.com/ --- patterns & practices: Windows Azure Security Guidance
-
+* https://github.com/tpeczek/Lib.AspNetCore.Security ---Lib.AspNetCore.Security is a library which provides security features like Content Security Policy, Strict Transport Security or Expect-CT for ASP.NET Core  
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
