@@ -11,6 +11,8 @@
 * https://martinfowler.com/articles/microservices.html
 * http://geek.csdn.net/news/detail/210557 --- 实施微服务架构的关键技术
 * http://blog.didispace.com/categories/Spring-Cloud/
+* https://github.com/dotnetcore
+
 # Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
