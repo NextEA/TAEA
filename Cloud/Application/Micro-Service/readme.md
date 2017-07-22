@@ -48,6 +48,7 @@
   - https://segmentfault.com/a/1190000008938935 --- Google API设计指南系列文章
   - http://www.cnblogs.com/kaihe/p/4703118.html --- RESTful API设计实践 
   - https://segmentfault.com/a/1190000010261115 --- RESTful API 实践 
+  - https://savvyapps.com/blog/how-to-build-restful-api-mobile-app
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
