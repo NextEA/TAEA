@@ -59,7 +59,7 @@
   - https://github.com/gary-b/WF4JSDesigner --- Web based designer for Workflow Foundation (POC). 
   - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example  
   - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
-  - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
+  - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
   
  * Page Workflow
    - http://blogs.msdn.com/b/mwinkle/archive/2007/06/07/introducing-the-pageflow-sample.aspx
@@ -78,5 +78,5 @@ All additions we've done on pageflow will be submitted towards the codeplex sour
    - http://www.cnblogs.com/yungboy/archive/2011/08/29/2158467.html
    - http://wf.codeplex.com/wikipage?title=WebAPIWorkflow
    - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
-   - 
+   - https://www.codeproject.com/Articles/1196904/Invoking-Workflows-from-Azure-Functions
   
