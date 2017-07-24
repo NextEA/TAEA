@@ -42,6 +42,7 @@ Thinking About Enterprise Application
 * https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651665667&idx=1&sn=5164a5be73a45c1b22ced09bc916cb70&srcid=0413cV1HnndcmIPLc4xuf4cP --- 一篇文章全面了解监控知识体系 
 # Configuration
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
+* https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654068626&idx=2&sn=95d9d50be4f53b43ca3e1aa6a55b3049&mpshare=1&scene=24&srcid=0409VbRVMV6Fboh9WuvjVCCd#rd  --- 分布式统一配置平台-Disconf.Net 
 
 # Authentication & Authorization
 * https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6?utm_source=wanqu.co&tm_campaign=Wanqu+Daily&tm_medium=rss
