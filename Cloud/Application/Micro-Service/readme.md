@@ -12,6 +12,7 @@
 * http://geek.csdn.net/news/detail/210557 --- 实施微服务架构的关键技术
 * http://blog.didispace.com/categories/Spring-Cloud/
 * https://github.com/dotnetcore
+* https://github.com/dotnetcore/CAP
 
 # Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
