@@ -17,7 +17,7 @@ Thinking About Enterprise Application
 * https://www.codeproject.com/Articles/717656/How-to-build-an-Enterprise-Framework-for-NET-based
 
 # [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
-* [Asp.Net](https://github.com/maskx/TAEA/blob/master/Security/index.md#aspnet)
+* [Web](https://github.com/maskx/TAEA/blob/master/Security/index.md#web)
 * [SQL](https://github.com/maskx/TAEA/blob/master/Security/index.md#sql)
 * [Tool](https://github.com/maskx/TAEA/blob/master/Security/index.md#tool)
 * [XSS](https://github.com/maskx/TAEA/blob/master/Security/index.md#xss)
@@ -39,6 +39,7 @@ Thinking About Enterprise Application
 # Monitoring
 * https://www.azure.cn/documentation/articles/best-practices-monitoring/
 * https://github.com/dotnet-architecture/HealthChecks --- Health checks for building services, such as with ASP.NET Core 
+* https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651665667&idx=1&sn=5164a5be73a45c1b22ced09bc916cb70&srcid=0413cV1HnndcmIPLc4xuf4cP --- 一篇文章全面了解监控知识体系 
 # Configuration
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
 
