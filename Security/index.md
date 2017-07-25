@@ -14,6 +14,7 @@
 * https://azuresecurity.codeplex.com/ --- patterns & practices: Windows Azure Security Guidance
 * https://github.com/tpeczek/Lib.AspNetCore.Security ---Lib.AspNetCore.Security is a library which provides security features like Content Security Policy, Strict Transport Security or Expect-CT for ASP.NET Core  
 * https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
+* http://www.ituring.com.cn/book/tupubarticle/16851  --- Web 应用程序的安全风险
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
