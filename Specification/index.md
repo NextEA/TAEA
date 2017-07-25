@@ -50,6 +50,7 @@
   - https://css-tricks.com/methods-organize-css/ --- Methods to Organize CSS
   - http://web.jobbole.com/91792/ --- CSS 样式书写规范
   - http://primercss.io/
+  - https://alistapart.com/article/css-audits-taking-stock-of-your-code
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
