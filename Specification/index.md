@@ -20,6 +20,7 @@
   - http://hao.jobbole.com/static_code_analysis_tool_list_opensource_lang/ --- 静态代码分析工具清单：开源篇（各语言）
   - https://github.com/Microsoft/DevSkim  --- DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. 
   - https://github.com/dotnet-security-guard/roslyn-security-guard --- Roslyn analyzers that aim to help security audit on .NET applications.
+  - https://github.com/DotNetAnalyzers
 # JavaScript code guidelines
 * Reference
   - https://github.com/standard/standard  ---  JavaScript Style Guide, with linter & automatic code fixer 
