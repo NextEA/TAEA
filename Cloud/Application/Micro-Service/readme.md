@@ -50,6 +50,7 @@
   - http://www.cnblogs.com/kaihe/p/4703118.html --- RESTful API设计实践 
   - https://segmentfault.com/a/1190000010261115 --- RESTful API 实践 
   - https://savvyapps.com/blog/how-to-build-restful-api-mobile-app
+  - https://segmentfault.com/p/1210000010346133/read --- 构建自描述 RESTFul API 体系的设计与畅想
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
