@@ -44,6 +44,10 @@ Thinking About Enterprise Application
 * https://github.com/opserver/Opserver --- Stack Exchange's Monitoring System 
 * https://github.com/magsoft2/Perfon.Net --- Performance monitoring framework for Web Api and MVC applications without using windows performance counters. Built-in REST API and UI dashboard. 
 * https://github.com/lurumad/aspnetcore-health --- AspNetCore.Health enables load balancers to monitor the status of deployed Web applications. 
+* http://www.asp.net/web-api/overview/testing-and-debugging/tracing-in-aspnet-web-api
+* http://blogs.msdn.com/b/dotnet/archive/2013/08/15/announcing-traceevent-monitoring-and-diagnostics-for-the-cloud.aspx
+* http://blogs.msdn.com/b/dotnet/archive/2013/08/09/announcing-the-eventsource-nuget-package-write-to-the-windows-event-log.aspx
+
 # Configuration
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
 * https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654068626&idx=2&sn=95d9d50be4f53b43ca3e1aa6a55b3049&mpshare=1&scene=24&srcid=0409VbRVMV6Fboh9WuvjVCCd#rd  --- 分布式统一配置平台-Disconf.Net 
