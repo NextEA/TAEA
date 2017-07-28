@@ -23,6 +23,7 @@ Thinking About Enterprise Application
 * [Monitoring](https://github.com/maskx/TAEA/blob/master/Monitoring.md)
 * [Configuration](https://github.com/maskx/TAEA/blob/master/Configuration.md)
 * [Authentication & Authorization](https://github.com/maskx/TAEA/blob/master/Auth.md)
+* [Diagnostics](https://github.com/maskx/TAEA/blob/master/Diagnostics.md)
 # Globalization
 * https://segmentfault.com/a/1190000009058572 --- 前端通用国际化解决方案 
 * https://github.com/globalizejs/globalize --- A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data 
