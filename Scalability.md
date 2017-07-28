@@ -9,3 +9,4 @@
   - http://www.cnblogs.com/wetest/p/6911734.html --- Qzone 高性能 HTTPS 实践 
   - http://www.open-open.com/news/view/902c19 --- 8 种提升 ASP.NET Web API 性能的方法
   - https://www.infoq.com/articles/dotnet-performance-monitoring-optimization
+  - https://www.microsoft.com/china/msdn/msdnmvp/page6_1.html --- 盘点.NET的性能优化策略
