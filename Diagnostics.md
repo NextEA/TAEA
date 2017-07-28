@@ -6,3 +6,4 @@
 * https://github.com/lowleveldesign/diagnostics-kit --- Diagnostics Kit is a set of tools and libraries to effectively work with logs generated in .NET applications. 
 * https://etwcontroler.codeplex.com/ --- ETW Controler
 * https://eventloganalyzer.codeplex.com/ --- Event Log Analyzer
+* https://loggan.codeplex.com/ --- Loggan is a logging platform for Asp.NET (3.5 And Above) Applications. It can help you produce and manage high-quality logs for your application regardless of its size or complexity. 
