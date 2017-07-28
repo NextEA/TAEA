@@ -37,6 +37,7 @@ Thinking About Enterprise Application
 * Performance Testing
   - https://perftesting.codeplex.com/ --- patterns & practices: Performance Testing Guidance
   - https://perftestingguide.codeplex.com/ --- patterns & practices: Performance Testing Guidance for Web Applications
+  - https://www.codeproject.com/Articles/94007/Load-Testing-in-Steps
 
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
