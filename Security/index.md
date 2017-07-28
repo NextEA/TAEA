@@ -16,6 +16,7 @@
 * https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
 * http://www.ituring.com.cn/book/tupubarticle/16851  --- Web 应用程序的安全风险
 * http://www.cnblogs.com/luminji/category/381486.html ---  Asp.net安全架构
+* http://fex.baidu.com/blog/2014/06/web-sec-2014/ --- Web 前端攻防（2014版）
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
