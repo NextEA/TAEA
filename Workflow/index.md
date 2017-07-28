@@ -46,6 +46,7 @@
   - https://github.com/baixuexiyang/drag 
   - https://bpmn2wf.codeplex.com/ --- BPMN2WF is a prototype application for transforming BPMN models into Workflow Foundation (WF) code. The project is targeting the actual version of Workflow (Version 4.0). It started with an analysis and a proof of concept to get an impression of the complexity and decide the technical approach. Development focuses on flexibility and the ability for enhancements and customization of transformation and mappings.
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
+  - https://github.com/tj/co --- The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc) 
 
 * 设计器
   - https://github.com/simon5408/workflow
