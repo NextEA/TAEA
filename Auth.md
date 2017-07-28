@@ -6,3 +6,4 @@
 * http://www.cnblogs.com/kuangood/p/4640497.html --- 通用权限管理系统 适合众多行业 ，生鲜，汽配，仓储配送 
 * http://m.blog.csdn.net/capsicum29/article/details/57404961 --- 解决数据分权访问----SQL2016 行级安全解决方案
 * http://m.blog.csdn.net/capsicum29/article/details/55832896 --- 数据库权限分配探讨
+* https://github.com/stevejgordon/CorrelationId --- An ASP.NET Core middleware component which synchronises a correlation ID for cross API request logging. 
