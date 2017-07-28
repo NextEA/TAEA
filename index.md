@@ -16,36 +16,13 @@ Thinking About Enterprise Application
 * http://www.cnblogs.com/huyong/p/4182236.html --- RDIFramework.NET ━ .NET快速信息化系统开发框架
 * https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index --- Framework Design Guidelines
 * https://www.codeproject.com/Articles/717656/How-to-build-an-Enterprise-Framework-for-NET-based
-
-# [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
-* [Web](https://github.com/maskx/TAEA/blob/master/Security/index.md#web)
-* [SQL](https://github.com/maskx/TAEA/blob/master/Security/index.md#sql)
-* [Tool](https://github.com/maskx/TAEA/blob/master/Security/index.md#tool)
-* [XSS](https://github.com/maskx/TAEA/blob/master/Security/index.md#xss)
-* [Code](https://github.com/maskx/TAEA/blob/master/Security/index.md#code)
-
-# Availability
-* https://www.azure.cn/documentation/articles/best-practices-availability-checklist/
-* https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485330&idx=1&sn=daef0393fdae3d8b499fd9b8b2473cd1 --- 美团点评收银台前端可用性保障实践 
-# Scalability
-* https://www.azure.cn/documentation/articles/best-practices-scalability-checklist/
-* ***Performance***
-  - https://msdn.microsoft.com/en-us/library/ff649152.aspx --- Improving .NET Application Performance and Scalability
-  - http://www.dell.com/content/topics/global.aspx/power/en/ps3q01_graham?c=us&l=en&cs=04 --- Web Server Sizing
-  - https://stackify.com/application-performance-metrics/ --- 8 Key Application Performance Metrics & How to Measure Them
-  - https://technet.microsoft.com/en-us/library/bb608286.aspx --- Server Sizing Guide
-  - http://www.cnblogs.com/sheng-jie/p/7109385.html --- 性能优化知多少 
-  - http://www.cnblogs.com/wetest/p/6911734.html --- Qzone 高性能 HTTPS 实践 
-  - http://www.open-open.com/news/view/902c19 --- 8 种提升 ASP.NET Web API 性能的方法
-
-# [Monitoring](https://github.com/maskx/TAEA/blob/master/Monitoring.md)
-# Configuration
-* http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
-* https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654068626&idx=2&sn=95d9d50be4f53b43ca3e1aa6a55b3049&mpshare=1&scene=24&srcid=0409VbRVMV6Fboh9WuvjVCCd#rd  --- 分布式统一配置平台-Disconf.Net 
-* https://jeremydmiller.com/2016/08/11/using-the-bully-algorithm-in-our-service-bus-applications/
-
-# [Authentication & Authorization](https://github.com/maskx/TAEA/blob/master/Auth.md)
-
+# Feature
+* [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
+* [Availability](https://github.com/maskx/TAEA/blob/master/Availability.md)
+* [Scalability](https://github.com/maskx/TAEA/blob/master/Scalability.md)
+* [Monitoring](https://github.com/maskx/TAEA/blob/master/Monitoring.md)
+* [Configuration](https://github.com/maskx/TAEA/blob/master/Configuration.md)
+* [Authentication & Authorization](https://github.com/maskx/TAEA/blob/master/Auth.md)
 # Globalization
 * https://segmentfault.com/a/1190000009058572 --- 前端通用国际化解决方案 
 * https://github.com/globalizejs/globalize --- A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data 
@@ -62,6 +39,7 @@ Thinking About Enterprise Application
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
 * https://github.com/Meituan-Dianping/SQLAdvisor --- 输入SQL，输出索引优化建议 
+
 # [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
 * [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
 * [JavaScript code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#javascript-code-guidelines)
@@ -73,6 +51,7 @@ Thinking About Enterprise Application
 * http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
 * https://ana-balica.github.io/2017/02/21/code-review-checklist/
 * http://www.discoversdk.com/blog/code-review-tools-you-should-get-to-know
+
 # Common Requirement
 * ***[Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)***
 
