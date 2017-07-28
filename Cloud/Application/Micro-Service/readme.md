@@ -51,6 +51,7 @@
   - https://segmentfault.com/a/1190000010261115 --- RESTful API 实践 
   - https://savvyapps.com/blog/how-to-build-restful-api-mobile-app
   - https://segmentfault.com/p/1210000010346133/read --- 构建自描述 RESTFul API 体系的设计与畅想
+  - http://blog.jobbole.com/112006/ --- REST 的 6 个约束
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
