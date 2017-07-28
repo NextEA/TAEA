@@ -53,6 +53,7 @@
   - https://segmentfault.com/p/1210000010346133/read --- 构建自描述 RESTFul API 体系的设计与畅想
   - http://blog.jobbole.com/112006/ --- REST 的 6 个约束
   - https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/ --- 10 Best Practices for Writing Node.js REST APIs
+  - https://cheesecakelabs.com/blog/api-design-think-first-code-later/ 
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
