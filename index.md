@@ -38,22 +38,12 @@ Thinking About Enterprise Application
   - http://www.cnblogs.com/wetest/p/6911734.html --- Qzone 高性能 HTTPS 实践 
   - http://www.open-open.com/news/view/902c19 --- 8 种提升 ASP.NET Web API 性能的方法
 
-# Monitoring
-* https://www.azure.cn/documentation/articles/best-practices-monitoring/
-* https://github.com/dotnet-architecture/HealthChecks --- Health checks for building services, such as with ASP.NET Core 
-* https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651665667&idx=1&sn=5164a5be73a45c1b22ced09bc916cb70&srcid=0413cV1HnndcmIPLc4xuf4cP --- 一篇文章全面了解监控知识体系 
-* https://github.com/opserver/Opserver --- Stack Exchange's Monitoring System 
-* https://github.com/magsoft2/Perfon.Net --- Performance monitoring framework for Web Api and MVC applications without using windows performance counters. Built-in REST API and UI dashboard. 
-* https://github.com/lurumad/aspnetcore-health --- AspNetCore.Health enables load balancers to monitor the status of deployed Web applications. 
-* http://www.asp.net/web-api/overview/testing-and-debugging/tracing-in-aspnet-web-api
-* http://blogs.msdn.com/b/dotnet/archive/2013/08/15/announcing-traceevent-monitoring-and-diagnostics-for-the-cloud.aspx
-* http://blogs.msdn.com/b/dotnet/archive/2013/08/09/announcing-the-eventsource-nuget-package-write-to-the-windows-event-log.aspx
-* https://github.com/warden-stack/Warden --- Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch. 
+# [Monitoring](https://github.com/maskx/TAEA/blob/master/Monitoring.md)
 # Configuration
 * http://www.cnblogs.com/ASPNET2008/p/6752131.html --- 统一配置中心方案
 * https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654068626&idx=2&sn=95d9d50be4f53b43ca3e1aa6a55b3049&mpshare=1&scene=24&srcid=0409VbRVMV6Fboh9WuvjVCCd#rd  --- 分布式统一配置平台-Disconf.Net 
 * https://jeremydmiller.com/2016/08/11/using-the-bully-algorithm-in-our-service-bus-applications/
-* https://github.com/alhardy/AppMetrics --- App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. 
+
 # Authentication & Authorization
 * https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6?utm_source=wanqu.co&tm_campaign=Wanqu+Daily&tm_medium=rss
 * http://www.jianshu.com/p/c1da990de905 --- 通用型认证与授权最小系统，以较小的代价实现中立开源项目：UniAuth
