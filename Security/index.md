@@ -23,7 +23,7 @@
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
 * https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 * https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
-* 
+* https://blogs.technet.microsoft.com/srd/2008/05/30/sql-injection-attack/ --- 
 ## Tool
 * https://github.com/dotnet-security-guard/roslyn-security-guard  --- Roslyn analyzers that aim to help security audit on .NET applications
 ## XSS 
