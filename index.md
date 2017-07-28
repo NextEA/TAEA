@@ -36,6 +36,7 @@ Thinking About Enterprise Application
   - https://technet.microsoft.com/en-us/library/bb608286.aspx --- Server Sizing Guide
   - http://www.cnblogs.com/sheng-jie/p/7109385.html --- 性能优化知多少 
   - http://www.cnblogs.com/wetest/p/6911734.html --- Qzone 高性能 HTTPS 实践 
+  - http://www.open-open.com/news/view/902c19 --- 8 种提升 ASP.NET Web API 性能的方法
 
 # Monitoring
 * https://www.azure.cn/documentation/articles/best-practices-monitoring/
