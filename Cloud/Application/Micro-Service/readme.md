@@ -14,6 +14,7 @@
 * https://github.com/dotnetcore
 * https://github.com/dotnetcore/CAP
 * https://segmentfault.com/p/1210000010405163/read --- 有赞支付微服务实践
+* https://segmentfault.com/p/1210000010429682/read --- 微服务与API 网关
 # Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
