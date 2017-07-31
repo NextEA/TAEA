@@ -1,5 +1,6 @@
 # Business
 - https://zhuanlan.zhihu.com/p/27659302 --- 基于指令和混合的前端通用埋点方案
+- http://www.youyong.top/article/11593e72333ba --- 网站计数系统架构实践一次搞定
 # System
 * https://www.azure.cn/documentation/articles/best-practices-monitoring/
 * https://github.com/dotnet-architecture/HealthChecks --- Health checks for building services, such as with ASP.NET Core 
