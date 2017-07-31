@@ -18,6 +18,7 @@
 * http://www.cnblogs.com/luminji/category/381486.html ---  Asp.net安全架构
 * http://fex.baidu.com/blog/2014/06/web-sec-2014/ --- Web 前端攻防（2014版）
 * https://www.cnblogs.com/index-html/p/ssl-frontend-hijack.html --- SSLStrip 的未来 —— HTTPS 前端劫持 
+* https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06 --- Application DDoS In Microservice Architectures
 ## SQL
 * https://blogs.msdn.microsoft.com/sqlsecurity/
 * http://blog.jobbole.com/105860/ --- 如果有人问你 SQL 注入的资料，请叫他看这份速查表
