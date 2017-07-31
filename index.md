@@ -42,6 +42,7 @@ Thinking About Enterprise Application
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
 * https://github.com/Meituan-Dianping/SQLAdvisor --- 输入SQL，输出索引优化建议 
+* https://segmentfault.com/p/1210000010420917/read --- 优化网站性能必备的6种架构方案
 
 # [Specification](https://github.com/maskx/TAEA/blob/master/Specification/index.md)
 * [C# code guidelines](https://github.com/maskx/TAEA/blob/master/Specification/index.md#c-code-guidelines)
