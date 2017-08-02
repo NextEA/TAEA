@@ -17,6 +17,7 @@ Thinking About Enterprise Application
 * https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index --- Framework Design Guidelines
 * https://www.codeproject.com/Articles/717656/How-to-build-an-Enterprise-Framework-for-NET-based
 * http://brianway.github.io/2017/01/18/reading-note-architecture-design/ --- 大型网站技术架构-入门梳理
+* https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 # Feature
 * [Security](https://github.com/maskx/TAEA/blob/master/Security/index.md)
 * [Availability](https://github.com/maskx/TAEA/blob/master/Availability.md)
