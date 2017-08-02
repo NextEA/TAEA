@@ -28,6 +28,8 @@
 * http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 * https://github.com/Microsoft/aspnet-api-versioning --- Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. 
 * https://github.com/Sebazzz/SDammann.WebApi.Versioning --- Versioning support for ASP.NET Web Api 
+* http://www.cnblogs.com/tdfblog/p/asp-net-core-api-versioning.html --- ASP.NET Core API 版本控制
+* http://www.talkingdotnet.com/support-multiple-versions-of-asp-net-core-web-api/ --- Support multiple versions of ASP.NET Core Web API
 
 # [API Design](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/API-Design.md)
 
