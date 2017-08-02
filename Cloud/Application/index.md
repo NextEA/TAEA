@@ -14,6 +14,8 @@
 - https://actorfx.codeplex.com/ --- Motivation behind The Actor Framework for Windows Azure from MS Open Tech
 - https://msdn.microsoft.com/magazine/mt742866?f=255&MSPPError=-2147217396 --- Event-Command-Saga Approach for Business Logic
 - https://petabridge.com/bootcamp/ --- Akka.NET 
+- https://github.com/azure/dotnetty --- DotNetty project – a port of netty, event-driven asynchronous network application framework 
+- https://github.com/AsynkronIT/protoactor-dotnet --- Proto Actor - Ultra fast distributed actors for Golang and C# 
 # [Micro-Service](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/readme.md)
 * [Service Discovery](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/readme.md#service-discovery)
 * [服务治理](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/readme.md#服务治理)
