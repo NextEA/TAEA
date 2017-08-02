@@ -1,5 +1,6 @@
 # TAEA
 Thinking About Enterprise Application
+* https://github.com/dotnet-architecture
 * https://www.microsoft.com/net/learn/architecture
 * https://servicestack.net/features
 * https://github.com/App-vNext
