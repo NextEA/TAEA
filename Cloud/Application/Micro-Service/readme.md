@@ -21,6 +21,9 @@
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
 * https://segmentfault.com/a/1190000007547712 --- 服务注册中心
+
+# API Gateway
+* https://github.com/TomPallister/Ocelot --- API Gateway created using .NET core. 
 #  配置中心
 * https://segmentfault.com/a/1190000007616797 ---  配置中心
 # 服务治理
