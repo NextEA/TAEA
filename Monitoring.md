@@ -4,6 +4,7 @@
 # System
 * https://www.azure.cn/documentation/articles/best-practices-monitoring/
 * https://github.com/dotnet-architecture/HealthChecks --- Health checks for building services, such as with ASP.NET Core 
+* http://www.cnblogs.com/GuZhenYin/p/7216724.html --- ASP.NET Core之跨平台的实时性能监控(2.健康检查) 
 * https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651665667&idx=1&sn=5164a5be73a45c1b22ced09bc916cb70&srcid=0413cV1HnndcmIPLc4xuf4cP --- 一篇文章全面了解监控知识体系 
 * https://github.com/opserver/Opserver --- Stack Exchange's Monitoring System 
 * https://github.com/magsoft2/Perfon.Net --- Performance monitoring framework for Web Api and MVC applications without using windows performance counters. Built-in REST API and UI dashboard. 
