@@ -1,4 +1,5 @@
 # Micro-Service
+* http://www.cnblogs.com/gudi/p/6686306.html --- 《微服务设计》读书笔记大纲 
 * http://microservices.io/patterns/index.html
 * http://emacoo.cn/arch/microservice-overview/ --- 微服务化改造系列之一：总览 
 * https://segmentfault.com/a/1190000007689560  --- 微服务化改造系列之四：授权中心 
