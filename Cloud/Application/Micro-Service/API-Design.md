@@ -28,6 +28,7 @@
   - http://blog.jobbole.com/112006/ --- REST 的 6 个约束
   - https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/ --- 10 Best Practices for Writing Node.js REST APIs
   - https://cheesecakelabs.com/blog/api-design-think-first-code-later/ 
+  - https://zhuanlan.zhihu.com/p/25647039 --- RESTful API最佳实践
 * GraphQL
   - https://github.com/facebook/graphql
   - https://github.com/graphql-dotnet/graphql-dotnet
