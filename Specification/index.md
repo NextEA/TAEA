@@ -69,6 +69,7 @@
   - [https://github.com/treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) --- A consistent code style guide for SQL to ensure legible and maintainable projects 
   - https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/
   - https://www.simple-talk.com/sql/database-devops-sql/database-code-analysis/
+  - https://www.red-gate.com/simple-talk/sql/t-sql-programming/basics-good-t-sql-coding-style/
 
 # issue guidelines
 * https://github.com/necolas/issue-guidelines
