@@ -18,7 +18,6 @@
   - Implementation
 * Reference
   - https://ebcappbuilder.codeplex.com/ --- Event-Based Components AppBuilder & AppDesigner
-  - https://ad4appdesigner.codeplex.com/ --- Designer for flow based .NET applications
   - https://github.com/markjulmar/BioWF  --- .NET Bioinformatics Workflow designer and execution engine. 
   - https://github.com/dagjaneiro/workflow-engine --- An ES6 workflow engine 
   - https://github.com/birdbrained/ember-workflow-engine
@@ -32,7 +31,6 @@
   - https://github.com/wasabii/Cogito.ServiceFabric  --- run Windows Workflow activities inside Azure Service Fabric
   - https://github.com/dmetzgar/corewf --- WF runtime ported to work on .NET Core 
   - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C#
-  - https://github.com/shibamo/99-flow-designer --- Flow Designer In Angular 2 
   - https://github.com/joelnet/WorkflowJS --- WorkflowJS was inspired by Windows Workflow Foundation (WF) in .NET 4. WorkflowJS allows you to chain smaller Activities together into a larger Workflow.
   - https://github.com/steelbreeze/state.js
   - http://stackoverflow.com/questions/10414849/workflow-engine-in-javascript
@@ -63,7 +61,8 @@
   - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example  
   - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
   - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
-  
+  - https://ad4appdesigner.codeplex.com/ --- Designer for flow based .NET applications
+  - https://github.com/shibamo/99-flow-designer --- Flow Designer In Angular 2 
  * Page Workflow
    - http://blogs.msdn.com/b/mwinkle/archive/2007/06/07/introducing-the-pageflow-sample.aspx
    - https://pageflowwf.codeplex.com/  --- Pageflow is based upon Workflow Foundation, and can be used to drive user interfaces. It has it's own workflow type and on every transition (movement from screen to screen) activity additional work can be done between the transition from one 'screen' to another 'screen'.
