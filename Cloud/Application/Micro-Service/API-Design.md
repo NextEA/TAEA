@@ -10,6 +10,7 @@
 * https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
 * https://segmentfault.com/a/1190000010261889 --- [译] 怎样使用GraphQL - 2.GraphQL是更好的REST 
 * https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
+* https://segmentfault.com/p/1210000010523597/read --- 服务端指南 | 良好的 API 设计指南
 * REST
   - https://codewords.recurse.com/issues/five/what-restful-actually-means
   - https://github.com/Microsoft/api-guidelines
