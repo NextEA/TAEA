@@ -57,6 +57,7 @@ Thinking About Enterprise Application
 * http://blog.jobbole.com/111600/ --- 谈一下我们是如何开展code review的
 * https://ana-balica.github.io/2017/02/21/code-review-checklist/
 * http://www.discoversdk.com/blog/code-review-tools-you-should-get-to-know
+* http://www.techug.com/post/five-level-of-code-review.html --- 代码审查与重构的5个层次
 
 # Common Requirement
 * ***[Workflow](https://github.com/maskx/TAEA/blob/master/Workflow/index.md)***
