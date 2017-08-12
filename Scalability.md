@@ -10,3 +10,4 @@
   - http://www.open-open.com/news/view/902c19 --- 8 种提升 ASP.NET Web API 性能的方法
   - https://www.infoq.com/articles/dotnet-performance-monitoring-optimization
   - https://www.microsoft.com/china/msdn/msdnmvp/page6_1.html --- 盘点.NET的性能优化策略
+  - https://segmentfault.com/p/1210000010607807/read --- 服务器性能优化的正确姿势
