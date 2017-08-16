@@ -70,6 +70,7 @@
   - https://www.simple-talk.com/sql/t-sql-programming/basics-good-t-sql-coding-style/
   - https://www.simple-talk.com/sql/database-devops-sql/database-code-analysis/
   - https://www.red-gate.com/simple-talk/sql/t-sql-programming/basics-good-t-sql-coding-style/
+  - https://github.com/jarulraj/sqlcheck --- Automatically identify anti-patterns in SQL queries 
 
 # issue guidelines
 * https://github.com/necolas/issue-guidelines
