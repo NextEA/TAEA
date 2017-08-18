@@ -5,6 +5,8 @@
 * https://segmentfault.com/p/1210000010189004/read --- 分库分表需要考虑的问题及方案
 * http://blog.csdn.net/bluishglc/article/details/6274841 --- 数据库分库分表sharding系列
 * https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/  --- Principles of Sharding for Relational Databases 
+* https://github.com/dangdangdotcom/sharding-jdbc --- A JDBC driver for shard databases and tables 
+* http://www.cnblogs.com/yunai/p/7356628.html# --- 数据库分库分表中间件 Sharding-JDBC 源码分析
 # Cache
 * http://www.jianshu.com/p/eeaa62dfaf72 --- 分布式内存缓存系统设计
 * https://segmentfault.com/a/1190000008751999 --- [译] 设计一个现代的缓存 
