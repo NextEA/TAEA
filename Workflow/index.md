@@ -81,4 +81,5 @@ All additions we've done on pageflow will be submitted towards the codeplex sour
    - http://wf.codeplex.com/wikipage?title=WebAPIWorkflow
    - https://wfmvc.codeplex.com/ --- This project will product libraries, activities and examples that demonstrate how you can use Windows Workflow Foundation with ASP.NET MVC
    - https://www.codeproject.com/Articles/1196904/Invoking-Workflows-from-Azure-Functions
-  
+   - https://github.com/OrleansContrib/Orleans.Activities --- Workflow Foundation (.Net 4.x System.Activities workflows) over Microsoft Orleans framework.
+   
