@@ -1,21 +1,4 @@
 # Workflow
-* Bussiness Driven
-* Data Driven
-* Human Workflow
-  - Definition 
-  - Implementation
-* System Workflow
-  - Definition 
-  - Implementation
-* Web Page Workflow
-  - Definition 
-  - Implementation
-* Desktop Form Workflow
-  - Definition 
-  - Implementation
-* Data Driven Flow
-  - Definition 
-  - Implementation
 * Reference
   - https://github.com/helmsb/WarpCoreTechnologies.OrderProcessing --- Sample project for demonstrating various Windows Workflow Foundation techniques. 
   - https://github.com/WorkMaze/PineCone.net --- Orchestration engine for Amazon SWF in .NET Core (Plugin for MySql) 
