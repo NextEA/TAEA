@@ -17,7 +17,8 @@
   - Definition 
   - Implementation
 * Reference
-  - https://ebcappbuilder.codeplex.com/ --- Event-Based Components AppBuilder & AppDesigner
+  - https://github.com/helmsb/WarpCoreTechnologies.OrderProcessing --- Sample project for demonstrating various Windows Workflow Foundation techniques. 
+  - https://ebcappbuilder.codeplex.com/ --- Event-Based Components AppBuilder & AppDesigner
   - https://github.com/markjulmar/BioWF  --- .NET Bioinformatics Workflow designer and execution engine. 
   - https://github.com/dagjaneiro/workflow-engine --- An ES6 workflow engine 
   - https://github.com/birdbrained/ember-workflow-engine
