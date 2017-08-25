@@ -4,18 +4,23 @@
   - https://github.com/WorkMaze/PineCone.net --- Orchestration engine for Amazon SWF in .NET Core (Plugin for MySql) 
   - https://ebcappbuilder.codeplex.com/ --- Event-Based Components AppBuilder & AppDesigner
   - https://github.com/markjulmar/BioWF  --- .NET Bioinformatics Workflow designer and execution engine. 
-  - https://github.com/dagjaneiro/workflow-engine --- An ES6 workflow engine 
-  - https://github.com/birdbrained/ember-workflow-engine
-  - https://github.com/nherment/node-sonic
-  - https://github.com/kwantu/workflow --- Javascript based workflow engine 
   - https://github.com/besley/Slickflow --- 开源工作流引擎 .NET Open Source Workflow Engine 
-  - https://github.com/wmbenedetto/turbine.js --- JavaScript Workflow Engine 
   - https://github.com/optimajet/WorkflowEngine.NET --- WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service). 
-  - https://github.com/paed01/bpmn-engine --- BPMN 2.0 execution engine. Open source javascript workflow engine.
   - https://github.com/danielgerlag/workflow-core --- Lightweight workflow engine for .NET Standard 
   - https://github.com/wasabii/Cogito.ServiceFabric  --- run Windows Workflow activities inside Azure Service Fabric
   - https://github.com/dmetzgar/corewf --- WF runtime ported to work on .NET Core 
   - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C#
+
+* BPMN
+  - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
+  - https://bpmn2wf.codeplex.com/ 
+* Javascript 
+  - https://github.com/paed01/bpmn-engine --- BPMN 2.0 execution engine. Open source javascript workflow engine.
+  - https://github.com/tj/co --- The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc) 
+  - https://github.com/dagjaneiro/workflow-engine --- An ES6 workflow engine 
+  - https://github.com/nherment/node-sonic
+  - https://github.com/kwantu/workflow --- Javascript based workflow engine 
+  - https://github.com/wmbenedetto/turbine.js --- JavaScript Workflow Engine 
   - https://github.com/joelnet/WorkflowJS --- WorkflowJS was inspired by Windows Workflow Foundation (WF) in .NET 4. WorkflowJS allows you to chain smaller Activities together into a larger Workflow.
   - https://github.com/steelbreeze/state.js
   - http://stackoverflow.com/questions/10414849/workflow-engine-in-javascript
@@ -29,10 +34,6 @@
   - https://github.com/yinmingjun/jsWorkFlow
   - https://github.com/jon-camuso/jinflow
   - https://github.com/baixuexiyang/drag 
-  - https://bpmn2wf.codeplex.com/ --- BPMN2WF is a prototype application for transforming BPMN models into Workflow Foundation (WF) code. The project is targeting the actual version of Workflow (Version 4.0). It started with an analysis and a proof of concept to get an impression of the complexity and decide the technical approach. Development focuses on flexibility and the ability for enhancements and customization of transformation and mappings.
-  - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
-  - https://github.com/tj/co --- The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc) 
-
 * 设计器
   - https://github.com/simon5408/workflow
   - https://github.com/osallou/bandit
