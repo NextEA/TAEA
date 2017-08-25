@@ -1,4 +1,8 @@
 # Workflow
+* Why workflow
+  - https://stackoverflow.com/questions/3634901/to-workflow-or-not-to-workflow?rq=1
+  - https://stackoverflow.com/questions/513657/why-use-windows-workflow?rq=1
+  - http://code-coverage.net/workflow-foundation-tutorial-part-2-the-basics/
 * Reference
   - https://github.com/helmsb/WarpCoreTechnologies.OrderProcessing --- Sample project for demonstrating various Windows Workflow Foundation techniques. 
   - https://github.com/WorkMaze/PineCone.net --- Orchestration engine for Amazon SWF in .NET Core (Plugin for MySql) 
