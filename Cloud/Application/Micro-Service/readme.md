@@ -1,4 +1,5 @@
 # Micro-Service
+* https://www.infoq.com/articles/Microservices-Architectural-Fitness --- Perspective on Architectural Fitness of Microservices
 * https://blog.risingstack.com/designing-microservices-architecture-for-failure/ 
 * https://segmentfault.com/a/1190000010799109 --- 设计一个容错的微服务架构
 * http://www.cnblogs.com/gudi/p/6686306.html --- 《微服务设计》读书笔记大纲 
