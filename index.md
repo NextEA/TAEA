@@ -41,6 +41,7 @@ Thinking About Enterprise Application
   - https://perftestingguide.codeplex.com/ --- patterns & practices: Performance Testing Guidance for Web Applications
   - https://www.codeproject.com/Articles/94007/Load-Testing-in-Steps
 * https://github.com/Marak/faker.js --- generate massive amounts of fake data in Node.js and the browser 
+* https://github.com/asatarin/testing-distributed-systems 
 # Tunning
 * https://github.com/adamsitnik/awesome-dot-net-performance
 * https://github.com/Meituan-Dianping/SQLAdvisor --- 输入SQL，输出索引优化建议 
