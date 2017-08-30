@@ -1,5 +1,6 @@
 # TAEA
 Thinking About Enterprise Application
+* https://blogs.msdn.microsoft.com/dotnet/2017/08/09/web-apps-aspnetcore-architecture-guidance/
 * https://github.com/dotnet-architecture
 * https://www.microsoft.com/net/learn/architecture
 * https://servicestack.net/features
