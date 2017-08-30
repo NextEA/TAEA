@@ -5,6 +5,12 @@
 * [https://msdn.microsoft.com/en-us/library/aa479086.aspx](https://msdn.microsoft.com/en-us/library/aa479086.aspx) --- Multi-Tenant Data Architecture
 * [https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/](https://blogs.msdn.microsoft.com/jamiedalton/2017/01/18/azure-multi-tenancy-documentation/) --- Azure multi-tenant documentation
 * [https://azure.microsoft.com/en-us/resources/videos/azurecon-2015-create-multi-tenant-saas-applications-powered-by-many-azure-sql-databases/](https://azure.microsoft.com/en-us/resources/videos/azurecon-2015-create-multi-tenant-saas-applications-powered-by-many-azure-sql-databases/) --- Create multi-tenant SaaS applications powered by many Azure SQL Databases
+* http://gunnarpeipman.com/2017/08/ef-core-global-query-filters/
+* http://gunnarpeipman.com/2017/08/tenant-providers/
+* http://gunnarpeipman.com/2017/08/database-per-tenant/
+* http://gunnarpeipman.com/2017/08/missing-tenant-middleware/
+* http://gunnarpeipman.com/2017/08/multi-tenant-data-context-unit-tests/
+* 
 # Actor
 - https://github.com/dotnet/orleans --- Orleans - Distributed Virtual Actor Model 
 - http://en.wikipedia.org/wiki/Actor_model
