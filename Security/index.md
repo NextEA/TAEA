@@ -28,6 +28,8 @@
 * https://blogs.technet.microsoft.com/srd/2008/05/30/sql-injection-attack/ --- 
 ## Tool
 * https://github.com/dotnet-security-guard/roslyn-security-guard  --- Roslyn analyzers that aim to help security audit on .NET applications
+* https://www.microsoft.com/en-us/SDL/adopt/tools.aspx --- MICROSOFT SECURITY DEVELOPMENT LIFECYCLE TOOL
+
 ## XSS 
 * http://www.cnblogs.com/FlightButterfly/p/7118324.html
 * https://techblog.toutiao.com/2017/06/06/xss/ --- Web安全之XSS 
