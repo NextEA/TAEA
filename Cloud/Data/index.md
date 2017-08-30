@@ -7,6 +7,7 @@
 * https://www.citusdata.com/blog/2017/08/09/principles-of-sharding-for-relational-databases/  --- Principles of Sharding for Relational Databases 
 * https://github.com/dangdangdotcom/sharding-jdbc --- A JDBC driver for shard databases and tables 
 * http://www.cnblogs.com/yunai/p/7356628.html# --- 数据库分库分表中间件 Sharding-JDBC 源码分析
+* http://www.cnblogs.com/yougewe/p/5585291.html --- MySQL分库分表总结参考 
 # Cache
 * http://www.jianshu.com/p/eeaa62dfaf72 --- 分布式内存缓存系统设计
 * https://segmentfault.com/a/1190000008751999 --- [译] 设计一个现代的缓存 
