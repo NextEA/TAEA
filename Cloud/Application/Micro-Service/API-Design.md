@@ -1,3 +1,4 @@
+* https://blog.cloudobjects.io/coding/devops/2017/08/16/micro-api/ --- The Micro API Design Pattern
 * RPC
   - https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654067739&idx=1&sn=28a98f0a32a8c88735d1adc9bbea3b77 --- Rabbit.Rpc 
   - https://github.com/RabbitTeam/RabbitCloud --- A lightweight cross-platform RPC. 
