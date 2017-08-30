@@ -20,6 +20,7 @@
 * https://segmentfault.com/p/1210000010405163/read --- 有赞支付微服务实践
 * https://segmentfault.com/p/1210000010429682/read --- 微服务与API 网关
 * http://www.cnblogs.com/vveiliang/p/7264397.html --- 基于.net的微服务架构下的开发测试环境运维实践 
+
 # Service Discovery
 * https://github.com/hashicorp/consul --- Service Discovery and Configuration Made Easy
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
@@ -28,16 +29,21 @@
 
 # API Gateway
 * https://github.com/TomPallister/Ocelot --- API Gateway created using .NET core. 
+
 #  配置中心
 * https://segmentfault.com/a/1190000007616797 ---  配置中心
+
 # 服务治理
 * http://www.cnblogs.com/googlemeoften/p/6020718.html --- 服务治理---限流（令牌桶算法） 
+
 # 版本管理
 * http://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 * https://github.com/Microsoft/aspnet-api-versioning --- Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. 
 * https://github.com/Sebazzz/SDammann.WebApi.Versioning --- Versioning support for ASP.NET Web Api 
 * http://www.cnblogs.com/tdfblog/p/asp-net-core-api-versioning.html --- ASP.NET Core API 版本控制
 * http://www.talkingdotnet.com/support-multiple-versions-of-asp-net-core-web-api/ --- Support multiple versions of ASP.NET Core Web API
+* https://github.com/Microsoft/aspnet-api-versioning/wiki/Versioning-via-the-URL-Path
+* https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
 
 # [API Design](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/API-Design.md)
 
