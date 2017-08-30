@@ -51,7 +51,8 @@
   - https://github.com/orosandrei/Rehosted-Workflow-Designer --- .NET Workflow Designer Rehosting & Custom Activity Library Example  
   - https://github.com/akumagamo/html-workflow-renderer --- Workflow Render Engine (eventually for Liferay)
   - https://github.com/dmetzgar/wf-rehost-roslyn --- Roslyn C# expression editing in the WF rehosted workflow designer
-  - https://ad4appdesigner.codeplex.com/ --- Designer for flow based .NET applications
+  - https://blogs.msdn.microsoft.com/cathyk/2009/11/05/implementing-a-custom-expression-editor/
+  - https://ad4appdesigner.codeplex.com/ --- Designer for flow based .NET applications
   - https://github.com/shibamo/99-flow-designer --- Flow Designer In Angular 2 
  * Page Workflow
    - http://blogs.msdn.com/b/mwinkle/archive/2007/06/07/introducing-the-pageflow-sample.aspx
