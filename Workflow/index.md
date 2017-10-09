@@ -18,6 +18,7 @@
 * BPMN
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
   - https://bpmn2wf.codeplex.com/ 
+  - http://www.cnblogs.com/f2flow/category/343056.html --- F2BPM工作流引擎
 * Javascript 
   - https://github.com/paed01/bpmn-engine --- BPMN 2.0 execution engine. Open source javascript workflow engine.
   - https://github.com/tj/co --- The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc) 
