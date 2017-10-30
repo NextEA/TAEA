@@ -41,6 +41,7 @@
   - https://github.com/philipwalton/html-inspector --- HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
   - https://segmentfault.com/a/1190000010264410 --- 【译】JavaScript代码检查工具对比 
   - https://segmentfault.com/a/1190000005986915 --- JavaScript代码检查及与gulp、git的结合使用
+  - https://github.com/wearehive/project-guidelines/blob/master/README-zh.md
 
 # CSS code guidelines
 * Reference
