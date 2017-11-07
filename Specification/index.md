@@ -36,7 +36,11 @@
   - http://cherryblog.site/developing-guideline.html
   - https://github.com/airbnb/javascript
   - https://github.com/ryanmcdermott/clean-code-javascript --- Clean Code concepts adapted for JavaScript
-  - https://github.com/rwaldron/idiomatic.js --- Principles of Writing Consistent, Idiomatic JavaScript 
+  - https://github.com/rwaldron/idiomatic.js --- Principles of Writing Consistent, Idiomatic JavaScript
+  - https://google.github.io/styleguide/jsguide.html
+  - https://github.com/rwaldron/idiomatic.js/
+  - https://github.com/standard/standard
+  - https://contribute.jquery.org/style-guide/js/ 
 * Tool
   - https://github.com/philipwalton/html-inspector --- HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
   - https://segmentfault.com/a/1190000010264410 --- 【译】JavaScript代码检查工具对比 
