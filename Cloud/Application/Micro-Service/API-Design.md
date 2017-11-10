@@ -13,6 +13,7 @@
 * https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
 * https://segmentfault.com/p/1210000010523597/read --- 服务端指南 | 良好的 API 设计指南
 * REST
+  - https://solidgeargroup.com/best-practices-rest-api
   - http://mediatemple.net/blog/tips/best-practices-rest-api
   - https://codewords.recurse.com/issues/five/what-restful-actually-means
   - https://github.com/Microsoft/api-guidelines
