@@ -47,18 +47,4 @@
 
 # [API Design](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/API-Design.md)
 
-# framework
-## Service fabric
-* https://github.com/Azure-Samples/service-fabric-dotnet-containers
-
-## eShopOnContainers
-* https://github.com/dotnet-architecture/eShopOnContainers --- Easy to get started sample reference microservice and container based application 
-* http://www.cnblogs.com/inday/p/healthchecks-in-eshop.html ---- 解析微软微服务架构Demo（五） 
-## surging
-* https://github.com/dotnetcore/surging --- surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper作为surging服务的注册中心，集成了哈希，随机，轮询作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输 
-
-## CAP
-* https://github.com/dotnetcore/CAP --- CAP is a .net standard library to achieve eventually consistent in distributed architectures system like SOA or MicroService. It is lightweight, efficiently and easy to use. 
-
-## Spring
-* https://github.com/SteelToeOSS  -- Cloud Native .NET Applications - Friend of Spring Boot, Spring Cloud, and Cloud Foundry
+# [Framework](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/framework.md)
