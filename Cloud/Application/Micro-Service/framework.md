@@ -22,7 +22,7 @@
   - https://github.com/RabbitTeam/RabbitCloud --- A lightweight cross-platform RPC. 
   - https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654068711&idx=1&sn=3083b27c6be32bd14a0e91fa1f0d307f --- DotBPE.RPC
   - https://github.com/xuanye/dotbpe --- dotbpe是一款基于CSharp编写的RPC框架，但是它的目标不仅仅只是解决rpc的问题，而是解决整个业务解决方案的问题，封装在常见的项目产品开发中的通用组件，让开发人员只专注于开发业务逻辑代码。底层通信默认实现基于DotNetty，可替换成其他Socket通信组件。dotbpe使用的默认协议名称叫Amp,编解码使用谷歌的Protobuf3,不过这些默认实现都是可以替换的。
-  
+  - https://github.com/grpc/grpc --- The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#) 
 # Others
 * https://github.com/xigadee/Microservice
 * https://github.com/daxnet/apworks-core
