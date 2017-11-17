@@ -26,6 +26,7 @@
 * https://github.com/PlayFab/consuldotnet --- .NET API for Consul (http://www.consul.io/) 
 * https://segmentfault.com/a/1190000007547712 --- 服务注册中心
 * https://blog.risingstack.com/designing-microservices-architecture-for-failure/ 
+* http://www.cnblogs.com/oopsguy/p/7493024.html --- 微服务从设计到部署（四）服务发现 
 
 # API Gateway
 * https://github.com/TomPallister/Ocelot --- API Gateway created using .NET core. 
