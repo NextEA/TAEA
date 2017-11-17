@@ -1,6 +1,7 @@
 * https://blog.cloudobjects.io/coding/devops/2017/08/16/micro-api/ --- The Micro API Design Pattern
 * https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
 * https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
+* https://segmentfault.com/a/1190000011109222  --- 安息吧 REST API，GraphQL 长存
 * https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
 * https://segmentfault.com/p/1210000010523597/read --- 服务端指南 | 良好的 API 设计指南
 
@@ -26,6 +27,7 @@
   - https://cheesecakelabs.com/blog/api-design-think-first-code-later/ 
   - https://zhuanlan.zhihu.com/p/25647039 --- RESTful API最佳实践
   - https://segmentfault.com/a/1190000011516151 --- [译]RESTful API 设计最佳实践
+  - http://www.cnblogs.com/linianhui/p/rest_network-based-software-architecture.html 
 
 # GraphQL
   - https://github.com/facebook/graphql
