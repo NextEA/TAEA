@@ -28,6 +28,7 @@
   - https://zhuanlan.zhihu.com/p/25647039 --- RESTful API最佳实践
   - https://segmentfault.com/a/1190000011516151 --- [译]RESTful API 设计最佳实践
   - http://www.cnblogs.com/linianhui/p/rest_network-based-software-architecture.html 
+  - https://segmentfault.com/a/1190000010530231  --- RESTful：RESTful API 设计的理解
 
 # GraphQL
   - https://github.com/facebook/graphql
