@@ -41,6 +41,7 @@
   - https://github.com/rwaldron/idiomatic.js/
   - https://github.com/standard/standard
   - https://contribute.jquery.org/style-guide/js/ 
+  - https://github.com/iv-web/eslint-config-ivweb/blob/master/README-zh_CN.md
 * Tool
   - https://github.com/philipwalton/html-inspector --- HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
   - https://segmentfault.com/a/1190000010264410 --- 【译】JavaScript代码检查工具对比 
