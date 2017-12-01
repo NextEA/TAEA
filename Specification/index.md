@@ -8,6 +8,7 @@
 * https://github.com/kneath/kss --- A methodology for documenting CSS and generating styleguides
 * https://github.com/NG-ZORRO/ng-zorro-antd --- An enterprise-class UI components based on Ant Design and Angular.
 * https://github.com/TheLarkInn/unity-component-specification --- This is a WIP draft of the Unity (Single File Web Component) Specification 
+* https://github.com/google/styleguide
 # UI
 * https://ant.design/ -- A UI Design Language
 * https://dev.office.com/fabric#/ -- The official front-end framework for building experiences that fit seamlessly into Office and Office 365.
