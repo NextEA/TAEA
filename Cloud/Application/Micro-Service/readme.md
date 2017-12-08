@@ -45,6 +45,7 @@
 * http://www.talkingdotnet.com/support-multiple-versions-of-asp-net-core-web-api/ --- Support multiple versions of ASP.NET Core Web API
 * https://github.com/Microsoft/aspnet-api-versioning/wiki/Versioning-via-the-URL-Path
 * https://www.hanselman.com/blog/ASPNETCoreRESTfulWebAPIVersioningMadeEasy.aspx
+* https://github.com/Microsoft/aspnet-api-versioning
 
 # [API Design](https://github.com/maskx/TAEA/blob/master/Cloud/Application/Micro-Service/API-Design.md)
 
