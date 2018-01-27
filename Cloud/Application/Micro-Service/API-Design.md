@@ -4,6 +4,8 @@
 * https://segmentfault.com/a/1190000011109222  --- 安息吧 REST API，GraphQL 长存
 * https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4
 * https://segmentfault.com/p/1210000010523597/read --- 服务端指南 | 良好的 API 设计指南
+* https://www.paypal-engineering.com/2017/09/08/announcing-the-latest-api-style-guide/
+* https://alistapart.com/article/the-ten-essentials-for-good-api-documentation
 
 # REST
   - https://solidgeargroup.com/best-practices-rest-api
