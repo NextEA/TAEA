@@ -6,6 +6,8 @@
 * https://segmentfault.com/p/1210000010523597/read --- 服务端指南 | 良好的 API 设计指南
 * https://www.paypal-engineering.com/2017/09/08/announcing-the-latest-api-style-guide/
 * https://alistapart.com/article/the-ten-essentials-for-good-api-documentation
+* https://github.com/interagent/http-api-design
+* https://github.com/ZhangBohan/http-api-design-ZH_CN
 
 # REST
   - https://solidgeargroup.com/best-practices-rest-api
