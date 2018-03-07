@@ -45,3 +45,4 @@
 * https://blog.sqreen.io/docker-security/
 * https://github.com/SecWiki/sec-chart --- 安全思维导图集合
 * https://infosec.mozilla.org/
+* https://github.com/danielmiessler/SecLists  --- SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
