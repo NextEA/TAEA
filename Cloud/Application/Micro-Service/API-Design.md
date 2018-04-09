@@ -8,6 +8,7 @@
 * https://alistapart.com/article/the-ten-essentials-for-good-api-documentation
 * https://github.com/interagent/http-api-design
 * https://github.com/ZhangBohan/http-api-design-ZH_CN
+* https://github.com/linianhui/code.guide/tree/master/http-api
 
 # REST
   - https://solidgeargroup.com/best-practices-rest-api
