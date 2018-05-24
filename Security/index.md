@@ -47,3 +47,4 @@
 * https://infosec.mozilla.org/
 * https://github.com/danielmiessler/SecLists  --- SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 * https://github.com/SecWiki/sec-chart  --- 安全思维导图集合 https://www.sec-wiki.com
+* https://github.com/FallibleInc/security-guide-for-developers  --- Security Guide for Developers (实用性开发人员安全须知) 
