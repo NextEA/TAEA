@@ -2,6 +2,10 @@
 # Specification
 * https://seesparkbox.com/foundry/style_guides_as_products
 * https://github.com/wearehive/project-guidelines --- A set of best practices for JavaScript projects 
+* https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md
+* https://github.com/elsewhencode/project-guidelines
+* https://github.com/thedaviddias/Front-End-Checklist
+* https://github.com/JohnsenZhou/Front-End-Checklist
 * http://www.cnblogs.com/clive/archive/2010/01/03/The_Elements_of_Programming_Style.html
 * https://www.thecodingdelight.com/write-clean-code/
 * https://github.com/Kristories/awesome-guidelines --- A curated list of high quality coding style conventions and standards. 
