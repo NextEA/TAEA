@@ -14,6 +14,7 @@
   - https://github.com/wasabii/Cogito.ServiceFabric  --- run Windows Workflow activities inside Azure Service Fabric
   - https://github.com/dmetzgar/corewf --- WF runtime ported to work on .NET Core 
   - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C#
+  - https://github.com/aelassas/Wexflow  --- An extensible workflow engine with a cross-platform manager and designer
 
 * BPMN
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
