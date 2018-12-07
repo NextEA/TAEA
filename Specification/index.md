@@ -72,6 +72,7 @@
   - http://primercss.io/
   - https://alistapart.com/article/css-audits-taking-stock-of-your-code
   - http://www.cnblogs.com/Ry-yuan/p/7384149.html --- CSS规范
+  - https://github.com/streamich/awesome-styleguides
 # HTML code guidelines
 * Reference
   - [https://github.com/philipwalton/html-inspector](https://github.com/philipwalton/html-inspector)
