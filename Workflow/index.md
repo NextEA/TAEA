@@ -16,6 +16,7 @@
   - https://github.com/dmetzgar/wf-xaml-to-cs --- Convert WF XAML to C#
   - https://github.com/aelassas/Wexflow  --- An extensible workflow engine with a cross-platform manager and designer
   - https://github.com/appccelerate/statemachine --- A .net library that lets you build state machines (hierarchical, async with fluent definition syntax and reporting capabilities).
+  - https://github.com/sfmskywalker/Elsa
 
 * BPMN
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
