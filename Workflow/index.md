@@ -17,6 +17,7 @@
   - https://github.com/aelassas/Wexflow  --- An extensible workflow engine with a cross-platform manager and designer
   - https://github.com/appccelerate/statemachine --- A .net library that lets you build state machines (hierarchical, async with fluent definition syntax and reporting capabilities).
   - https://github.com/sfmskywalker/Elsa
+  - https://github.com/thomasduft/microwf  --- A simple finite state machine (FSM) with workflow character where you define your workflows in code.
 
 * BPMN
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
