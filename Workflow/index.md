@@ -18,6 +18,7 @@
   - https://github.com/appccelerate/statemachine --- A .net library that lets you build state machines (hierarchical, async with fluent definition syntax and reporting capabilities).
   - https://github.com/sfmskywalker/Elsa
   - https://github.com/thomasduft/microwf  --- A simple finite state machine (FSM) with workflow character where you define your workflows in code.
+  - https://github.com/b12io/orchestra  ---  Orchestra is a Robotic Process Automation system for orchestrating project teams of experts and machines
 
 * BPMN
   - http://www.activiti.org/index.html --- Java 工作流引擎，可参考,BPMN
